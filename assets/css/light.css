@@ -1,0 +1,14 @@
+:root {
+  --background-color: #FFFFFF;
+  --text-color: #1D1D1F;
+  --text-secondary: #86868B;
+  --accent-color: color(display-p3 0.894 0.584 0.403);
+  --accent-color-fallback: #E4956A;
+  --surface-color: #F5F5F7;
+  --surface-secondary: #FBFBFD;
+  --border-color: rgba(0, 0, 0, 0.06);
+  --icon-gradient-start: #F8EADB;
+  --icon-gradient-end: #EFD3B2;
+  --hero-glow: rgba(228, 149, 106, 0.12);
+  --gradient-opacity: 1;
+}

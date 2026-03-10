@@ -1,0 +1,69 @@
+@layer components {
+  .ambient-orbs {
+    position: absolute;
+    top: 100vh;
+    left: 0;
+    right: 0;
+    height: 200vh;
+    filter: blur(80px);
+    opacity: var(--gradient-opacity);
+    pointer-events: none;
+    z-index: -1;
+  }
+
+  .ambient-orbs .orb {
+    position: absolute;
+    border-radius: 50%;
+    background: radial-gradient(
+      circle,
+      color-mix(in srgb, var(--accent-color) var(--orb-opacity), transparent) 0%,
+      color-mix(in srgb, var(--accent-color) calc(var(--orb-opacity) * 0.5), transparent) 30%,
+      transparent 55%
+    );
+  }
+
+  .ambient-orbs .orb:nth-child(1) {
+    --orb-opacity: 30%;
+    width: min(1000px, 110vw);
+    height: min(1000px, 110vw);
+    top: 5%;
+    right: -25%;
+    filter: hue-rotate(14deg) saturate(0.9);
+    animation: ambient1 7s ease-in-out infinite alternate;
+  }
+
+  .ambient-orbs .orb:nth-child(2) {
+    --orb-opacity: 25%;
+    width: min(800px, 90vw);
+    height: min(800px, 90vw);
+    top: 35%;
+    left: -20%;
+    filter: hue-rotate(-8deg) saturate(1.1);
+    animation: ambient2 9s ease-in-out infinite alternate;
+  }
+
+  .ambient-orbs .orb:nth-child(3) {
+    --orb-opacity: 35%;
+    width: min(1100px, 120vw);
+    height: min(1100px, 120vw);
+    top: 45%;
+    right: -15%;
+    filter: hue-rotate(6deg);
+    animation: ambient3 8s ease-in-out infinite alternate;
+  }
+
+  @keyframes ambient1 {
+    from { transform: translate(-2%, 1%); }
+    to   { transform: translate(2%, -2%); }
+  }
+
+  @keyframes ambient2 {
+    from { transform: translate(1%, -2%); }
+    to   { transform: translate(-2%, 2%); }
+  }
+
+  @keyframes ambient3 {
+    from { transform: translate(2%, 2%); }
+    to   { transform: translate(-1%, -2%); }
+  }
+}

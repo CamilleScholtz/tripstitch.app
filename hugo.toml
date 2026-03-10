@@ -1,0 +1,14 @@
+baseURL = "https://tripstitch.app/"
+languageCode = "en"
+title = "Tripstitch — AI Travel Itinerary Planner"
+
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "Your next adventure, planned by AI. Tripstitch creates personalized travel itineraries with Mia, your AI travel companion."
+  appStoreURL = "https://apps.apple.com/app/tripstitch"
+
+[minify]
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepWhitespace = false

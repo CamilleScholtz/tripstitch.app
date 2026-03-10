@@ -1,0 +1,33 @@
+@layer components {
+  .download {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    text-align: center;
+  }
+
+  .download h2 {
+    margin-bottom: 1rem;
+  }
+
+  .download p {
+    color: var(--text-secondary);
+    font-size: clamp(1.0625rem, 2.5vw, 1.25rem);
+    max-width: 480px;
+    margin: 0 auto 2rem;
+  }
+
+  .download-badge {
+    display: inline-block;
+    transition: transform 0.2s, opacity 0.2s;
+  }
+
+  .download-badge:hover {
+    opacity: 0.85;
+    transform: scale(1.02);
+  }
+
+  .download-badge img {
+    height: 54px;
+    width: auto;
+  }
+}

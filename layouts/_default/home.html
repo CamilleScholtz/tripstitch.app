@@ -1,0 +1,113 @@
+{{ define "main" }}
+
+{{/* Hero */}}
+<section class="hero">
+  <div class="hero-gradient" aria-hidden="true">
+    <div class="orb"></div>
+    <div class="orb"></div>
+    <div class="orb"></div>
+    <div class="orb"></div>
+    <div class="orb"></div>
+    <div class="orb"></div>
+  </div>
+  {{ $icon := partial "app-icon.html" . }}
+  <div class="hero-content">
+    <div class="hero-icon">
+      <img src="{{ $icon.RelPermalink }}" alt="Tripstitch" width="180" height="180">
+    </div>
+    <h1>Your next adventure, planned&nbsp;by&nbsp;AI.</h1>
+    <p class="hero-subtitle">Tripstitch creates personalized travel itineraries with Mia, your AI travel companion. Tell her where you're going — she'll handle the rest.</p>
+    <a href="{{ .Site.Params.appStoreURL }}" class="hero-badge">
+      <img src="/img/app-store-badge.svg" alt="Download on the App Store" height="48">
+    </a>
+  </div>
+</section>
+
+{{/* Ambient orbs scattered below hero */}}
+<div class="ambient-orbs" aria-hidden="true">
+  <div class="orb"></div>
+  <div class="orb"></div>
+  <div class="orb"></div>
+</div>
+
+{{/* Features */}}
+<section class="features">
+  <div class="features-header">
+    <h2>Everything you need to plan the perfect trip.</h2>
+    <p>From day-by-day itineraries to live recommendations, Mia thinks of it all.</p>
+  </div>
+  <div class="features-grid">
+    <div class="feature-card">
+      <div class="feature-icon">🗺️</div>
+      <h3>AI Itineraries</h3>
+      <p>Tell Mia your destination, dates, and travel style. She builds a complete day-by-day plan tailored to you.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">💬</div>
+      <h3>Chat with Mia</h3>
+      <p>Ask for restaurant picks, local tips, or last-minute changes. Mia adapts your itinerary in real time.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">👥</div>
+      <h3>Travel Together</h3>
+      <p>Add companions and their preferences. Mia considers everyone's dietary needs, pace, and interests.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">📍</div>
+      <h3>Interactive Maps</h3>
+      <p>See every stop on a beautiful map. Reorder, add, or remove places — your trip, your way.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">🧳</div>
+      <h3>Packing Lists</h3>
+      <p>AI-generated packing lists based on your destination, weather, and trip style. Never forget the essentials.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">✨</div>
+      <h3>Personalized</h3>
+      <p>Mia learns your preferences — walking comfort, activity level, food restrictions — for smarter plans every time.</p>
+    </div>
+  </div>
+</section>
+
+{{/* How It Works */}}
+<section class="steps">
+  <div class="steps-header">
+    <h2>Three steps to your perfect trip.</h2>
+    <p>Planning a trip has never been this easy.</p>
+  </div>
+  <div class="steps-list">
+    <div class="step">
+      <div class="step-number">1</div>
+      <div class="step-content">
+        <h3>Tell Mia about your trip</h3>
+        <p>Choose your destination, dates, companions, and travel style. Mia asks the right questions to understand what you want.</p>
+      </div>
+    </div>
+    <div class="step">
+      <div class="step-number">2</div>
+      <div class="step-content">
+        <h3>She builds your itinerary</h3>
+        <p>In seconds, Mia creates a detailed day-by-day plan with activities, restaurants, and hidden gems — all on a map.</p>
+      </div>
+    </div>
+    <div class="step">
+      <div class="step-number">3</div>
+      <div class="step-content">
+        <h3>Customize and explore</h3>
+        <p>Swap activities, adjust timing, or chat with Mia for new ideas. Your itinerary evolves with you.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{/* Download CTA */}}
+<section class="download">
+  <h2>Start planning your next adventure.</h2>
+  <p>Free to try. Available on iPhone.</p>
+  <a href="{{ .Site.Params.appStoreURL }}" class="download-badge">
+    <img src="/img/app-store-badge.svg" alt="Download on the App Store" height="54">
+  </a>
+</section>
+
+{{ end }}

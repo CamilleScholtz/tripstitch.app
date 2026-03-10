@@ -1,0 +1,8 @@
+.features-grid {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.steps-list {
+  max-width: 600px;
+  margin: 0 auto;
+}

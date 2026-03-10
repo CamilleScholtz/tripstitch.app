@@ -1,0 +1,35 @@
+{{/* Theme color-scheme files */}}
+{{ $light := resources.Get "css/light.css" | minify | fingerprint }}
+{{ $dark  := resources.Get "css/dark.css"  | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $light.RelPermalink }}" media="(prefers-color-scheme: light)">
+<link rel="stylesheet" href="{{ $dark.RelPermalink }}"  media="(prefers-color-scheme: dark)">
+
+{{/* Main bundle: concatenate all partials */}}
+{{ $partials := resources.Match "css/partials/*.css" }}
+{{ $main := resources.Get "css/main.css" }}
+{{ $all := slice $main }}
+{{ range $partials }}
+  {{ $all = $all | append . }}
+{{ end }}
+{{ $bundle := $all | resources.Concat "css/bundle.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $bundle.RelPermalink }}">
+
+{{/* Desktop partials */}}
+{{ $desktopPartials := resources.Match "css/partials/desktop/*.css" }}
+{{ $desktopAnchor := resources.Get "css/desktop.css" }}
+{{ $desktopAll := slice $desktopAnchor }}
+{{ range $desktopPartials }}
+  {{ $desktopAll = $desktopAll | append . }}
+{{ end }}
+{{ $desktop := $desktopAll | resources.Concat "css/desktop-bundle.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $desktop.RelPermalink }}" media="(min-width: 768px)">
+
+{{/* Mobile partials */}}
+{{ $mobilePartials := resources.Match "css/partials/mobile/*.css" }}
+{{ $mobileAnchor := resources.Get "css/mobile.css" }}
+{{ $mobileAll := slice $mobileAnchor }}
+{{ range $mobilePartials }}
+  {{ $mobileAll = $mobileAll | append . }}
+{{ end }}
+{{ $mobile := $mobileAll | resources.Concat "css/mobile-bundle.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $mobile.RelPermalink }}" media="(max-width: 767px)">

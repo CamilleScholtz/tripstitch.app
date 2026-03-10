@@ -1,0 +1,3 @@
+{{- $icon := resources.Get "img/app-icon.png" -}}
+{{- $webp := $icon.Process "webp q100" -}}
+{{- return $webp -}}
