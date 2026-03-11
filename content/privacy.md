@@ -1,5 +1,6 @@
 ---
 title: "Privacy Policy"
+description: "Tripstitch Privacy Policy — learn how the app handles your data, what we collect, and your choices regarding your information."
 ---
 
 **Last Updated: March 9, 2026**

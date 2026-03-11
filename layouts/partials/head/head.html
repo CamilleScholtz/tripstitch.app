@@ -1,9 +1,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="{{ .Site.Params.description }}">
+<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+<link rel="canonical" href="{{ .Permalink }}">
 <title>{{ .Title }}</title>
 {{ partial "head/favicons.html" . }}
 {{ partial "head/opengraph.html" . }}
+{{ partial "head/structured-data.html" . }}
 {{ partial "head/stylesheets.html" . }}
 {{ partial "head/scripts.html" . }}
