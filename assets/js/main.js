@@ -1,21 +1,16 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const header = document.querySelector("header.liquidGL");
-  if (!header || typeof window.liquidGL !== "function") {
-    header?.classList.add("liquidGL-fallback");
-    return;
-  }
-  try {
-    window.liquidGL({
-      target: "header.liquidGL",
-      snapshot: "body",
-      resolution: 1.5,
-      refraction: 0.015,
-      frost: 12,
-      shadow: false,
-      specular: false,
-      reveal: "fade",
-    });
-  } catch {
-    header.classList.add("liquidGL-fallback");
-  }
+  const header = document.querySelector(".site-header.is-hidden");
+  if (!header) return;
+
+  const hero = document.querySelector(".hero");
+  if (!hero) return;
+
+  const observer = new IntersectionObserver(
+    ([entry]) => {
+      header.classList.toggle("is-hidden", entry.isIntersecting);
+    },
+    { threshold: 0 }
+  );
+
+  observer.observe(hero);
 });

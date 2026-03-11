@@ -1,9 +1,2 @@
-{{/* html2canvas — required by liquidGL for DOM snapshots */}}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" defer></script>
-
-{{/* liquidGL WebGL glass refraction library */}}
-<script src="/js/liquidGL.js" defer></script>
-
-{{/* Main application script */}}
 {{ $js := resources.Get "js/main.js" | js.Build | minify | fingerprint }}
 <script src="{{ $js.RelPermalink }}" defer></script>
