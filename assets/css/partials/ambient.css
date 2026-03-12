@@ -5,66 +5,65 @@
     left: 0;
     right: 0;
     height: 200vh;
-    filter: blur(80px);
     opacity: var(--gradient-opacity);
     pointer-events: none;
     z-index: -1;
     overflow-x: clip;
   }
 
+
   .ambient-orbs .orb {
     position: absolute;
     border-radius: 50%;
-    background: radial-gradient(
-      circle,
-      color-mix(in srgb, var(--accent-color) var(--orb-opacity), transparent) 0%,
-      color-mix(in srgb, var(--accent-color) calc(var(--orb-opacity) * 0.5), transparent) 30%,
-      transparent 55%
-    );
+    --orb-100: color-mix(in srgb, var(--accent-color) var(--orb-opacity), transparent);
+    --orb-70: color-mix(in srgb, var(--accent-color) calc(var(--orb-opacity) * 0.7), transparent);
+    --orb-40: color-mix(in srgb, var(--accent-color) calc(var(--orb-opacity) * 0.4), transparent);
+    --orb-15: color-mix(in srgb, var(--accent-color) calc(var(--orb-opacity) * 0.15), transparent);
+    background: radial-gradient(circle, var(--orb-100) 0%, var(--orb-70) 10%, var(--orb-40) 22%, var(--orb-15) 36%, transparent 50%);
   }
 
   .ambient-orbs .orb:nth-child(1) {
     --orb-opacity: 30%;
-    width: min(1000px, 110vw);
-    height: min(1000px, 110vw);
+    width: min(1800px, 200vw);
+    height: min(1800px, 200vw);
     top: 5%;
     right: -25%;
     filter: hue-rotate(14deg) saturate(0.9);
-    animation: ambient1 7s ease-in-out infinite alternate;
   }
 
   .ambient-orbs .orb:nth-child(2) {
     --orb-opacity: 25%;
-    width: min(800px, 90vw);
-    height: min(800px, 90vw);
+    width: min(1500px, 170vw);
+    height: min(1500px, 170vw);
     top: 35%;
     left: -20%;
     filter: hue-rotate(-8deg) saturate(1.1);
-    animation: ambient2 9s ease-in-out infinite alternate;
   }
 
   .ambient-orbs .orb:nth-child(3) {
     --orb-opacity: 35%;
-    width: min(1100px, 120vw);
-    height: min(1100px, 120vw);
+    width: min(1900px, 210vw);
+    height: min(1900px, 210vw);
     top: 45%;
     right: -15%;
     filter: hue-rotate(6deg);
-    animation: ambient3 8s ease-in-out infinite alternate;
   }
 
-  @keyframes ambient1 {
-    from { transform: translate(-2%, 1%); }
-    to   { transform: translate(2%, -2%); }
+  .ambient-orbs .orb:nth-child(4) {
+    --orb-opacity: 20%;
+    width: min(1600px, 180vw);
+    height: min(1600px, 180vw);
+    top: 65%;
+    left: -30%;
+    filter: hue-rotate(-14deg) saturate(1.05);
   }
 
-  @keyframes ambient2 {
-    from { transform: translate(1%, -2%); }
-    to   { transform: translate(-2%, 2%); }
-  }
-
-  @keyframes ambient3 {
-    from { transform: translate(2%, 2%); }
-    to   { transform: translate(-1%, -2%); }
+  .ambient-orbs .orb:nth-child(5) {
+    --orb-opacity: 28%;
+    width: min(1700px, 190vw);
+    height: min(1700px, 190vw);
+    top: 80%;
+    right: -20%;
+    filter: hue-rotate(10deg) saturate(0.95);
   }
 }
