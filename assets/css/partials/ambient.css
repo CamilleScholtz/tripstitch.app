@@ -9,6 +9,7 @@
     opacity: var(--gradient-opacity);
     pointer-events: none;
     z-index: -1;
+    overflow: clip;
   }
 
   .ambient-orbs .orb {
