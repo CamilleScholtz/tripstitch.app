@@ -26,6 +26,11 @@
   }
 
 
+  main {
+    position: relative;
+    overflow: clip;
+  }
+
   a {
     color: inherit;
     text-decoration: none;
