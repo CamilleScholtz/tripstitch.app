@@ -1,3 +1,23 @@
 .features-grid {
   grid-template-columns: 1fr;
 }
+
+.features-row {
+  flex-direction: column;
+}
+
+.features-row:last-child {
+  flex-direction: column-reverse;
+}
+
+.features-mockup img {
+  width: min(200px, 50vw);
+}
+
+.steps-showcase {
+  flex-direction: column;
+}
+
+.steps-mockup img {
+  width: min(260px, 60vw);
+}

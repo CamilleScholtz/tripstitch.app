@@ -1,0 +1,37 @@
+@layer components {
+  /* Features rows: alternating mockup + cards layout */
+  .features-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: clamp(1.5rem, 3vw, 3rem);
+  }
+
+  .features-row + .features-row {
+    margin-top: clamp(2rem, 4vw, 4rem);
+  }
+
+  .features-mockup img {
+    width: clamp(200px, 27vw, 380px);
+    height: auto;
+    filter:
+      drop-shadow(0 4px 16px rgba(0, 0, 0, 0.08))
+      drop-shadow(0 24px 64px rgba(0, 0, 0, 0.06));
+  }
+
+  /* Steps showcase: mockup beside the steps */
+  .steps-showcase {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: clamp(2rem, 5vw, 5rem);
+  }
+
+  .steps-mockup img {
+    width: clamp(500px, 75vw, 1100px);
+    height: auto;
+    filter:
+      drop-shadow(0 4px 16px rgba(0, 0, 0, 0.08))
+      drop-shadow(0 24px 64px rgba(0, 0, 0, 0.06));
+  }
+}
