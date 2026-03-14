@@ -103,6 +103,11 @@
     color: #fff;
   }
 
+  .blog-badge--guide {
+    background: #34A853;
+    color: #fff;
+  }
+
   .blog-badge--dev {
     background: var(--surface-color);
     color: var(--text-color);
