@@ -1,3 +1,30 @@
+{{- if eq .Section "blog" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Params.description }}",
+  "url": "{{ .Permalink }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Organization",
+    "name": "Tripstitch",
+    "url": "{{ .Site.BaseURL }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Tripstitch",
+    "url": "{{ .Site.BaseURL }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ "img/tripstitch.webp" | absURL }}"
+    }
+  },
+  "image": "{{ partial "head/og-image.html" . }}"
+}
+</script>
+{{- else }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -15,3 +42,4 @@
   "image": "{{ "img/tripstitch.webp" | absURL }}"
 }
 </script>
+{{- end }}

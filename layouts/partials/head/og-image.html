@@ -1,0 +1,52 @@
+{{- $icon := resources.Get "img/tripstitch.webp" -}}
+{{- $fontBold := resources.Get "fonts/Inter-Bold.ttf" -}}
+{{- $fontRegular := resources.Get "fonts/Inter-Regular.ttf" -}}
+
+{{/* Create 1200×630 canvas by padding the 48×48 icon into the top-left */}}
+{{- $img := $icon.Resize "48x48" -}}
+{{- $img = $img | images.Filter (images.Padding 50 1082 532 70 "#F4F0EB") -}}
+
+{{/* "Tripstitch" branding next to icon */}}
+{{- $img = $img | images.Filter (images.Text "Tripstitch" (dict
+  "color" "#1D1D1F" "size" 22 "x" 130 "y" 63 "font" $fontBold
+)) -}}
+
+{{/* Word-wrap title to ~28 chars per line */}}
+{{- $scratch := newScratch -}}
+{{- $scratch.Set "line" "" -}}
+{{- $scratch.Set "lines" (slice) -}}
+{{- range split .Title " " -}}
+  {{- $current := ($scratch.Get "line") -}}
+  {{- $test := cond (eq $current "") . (printf "%s %s" $current .) -}}
+  {{- if and (ne $current "") (gt (strings.RuneCount $test) 28) -}}
+    {{- $scratch.Set "lines" (($scratch.Get "lines") | append $current) -}}
+    {{- $scratch.Set "line" . -}}
+  {{- else -}}
+    {{- $scratch.Set "line" $test -}}
+  {{- end -}}
+{{- end -}}
+{{- if ne ($scratch.Get "line") "" -}}
+  {{- $scratch.Set "lines" (($scratch.Get "lines") | append ($scratch.Get "line")) -}}
+{{- end -}}
+{{- $wrappedTitle := delimit ($scratch.Get "lines") "\n" -}}
+
+{{/* Category label for blog posts */}}
+{{- $titleY := 250 -}}
+{{- if and (eq .Section "blog") .Params.category -}}
+  {{- $img = $img | images.Filter (images.Text (upper .Params.category) (dict
+    "color" "#E4955F" "size" 16 "x" 70 "y" 230 "font" $fontBold
+  )) -}}
+  {{- $titleY = 270 -}}
+{{- end -}}
+
+{{/* Title */}}
+{{- $img = $img | images.Filter (images.Text $wrappedTitle (dict
+  "color" "#1D1D1F" "size" 52 "x" 70 "y" $titleY "font" $fontBold "linespacing" 22
+)) -}}
+
+{{/* "tripstitch.app" at the bottom */}}
+{{- $img = $img | images.Filter (images.Text "tripstitch.app" (dict
+  "color" "#8E8E93" "size" 18 "x" 70 "y" 575 "font" $fontRegular
+)) -}}
+
+{{- return $img.Permalink -}}
