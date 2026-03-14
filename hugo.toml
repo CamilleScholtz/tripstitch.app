@@ -8,6 +8,10 @@ disableKinds = ["taxonomy", "term"]
   description = "Your next adventure, planned by AI. Tripstitch creates personalized travel itineraries with Mia, your AI travel companion."
   appStoreURL = "https://apps.apple.com/app/tripstitch"
 
+[markup]
+  [markup.highlight]
+    noClasses = false
+
 [minify]
   [minify.tdewolff]
     [minify.tdewolff.html]

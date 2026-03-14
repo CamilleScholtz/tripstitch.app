@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+<article class="prose blog-post">
+  <div class="blog-post-meta">
+    <span class="blog-badge blog-badge--{{ .Params.category }}">
+      {{ if eq .Params.category "itinerary" }}Itinerary{{ else }}Dev{{ end }}
+    </span>
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+  </div>
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+</article>
+
+{{ end }}

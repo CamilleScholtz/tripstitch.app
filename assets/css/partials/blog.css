@@ -1,0 +1,116 @@
+@layer components {
+  .blog-index {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 6rem 1.5rem 4rem;
+  }
+
+  .blog-index h1 {
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    margin-bottom: 0.5rem;
+  }
+
+  .blog-subtitle {
+    color: var(--text-secondary);
+    margin-bottom: 1.5rem;
+  }
+
+  .blog-filters {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .blog-filter {
+    padding: 0.375rem 0.875rem;
+    border-radius: 980px;
+    border: 1px solid var(--border-color);
+    background: transparent;
+    color: var(--text-secondary);
+    font-size: 0.8125rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .blog-filter:hover {
+    border-color: var(--text-color);
+    color: var(--text-color);
+  }
+
+  .blog-filter.active {
+    background: var(--text-color);
+    color: var(--background-color);
+    border-color: var(--text-color);
+  }
+
+  .blog-posts {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+  }
+
+  .blog-card {
+    display: block;
+    padding: 1.5rem 0;
+    border-top: 1px solid var(--border-color);
+    transition: opacity 0.2s;
+  }
+
+  .blog-card:last-child {
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .blog-card:hover {
+    opacity: 0.7;
+  }
+
+  .blog-card h2 {
+    font-size: 1.25rem;
+    margin-bottom: 0.375rem;
+  }
+
+  .blog-card p {
+    color: var(--text-secondary);
+    font-size: 0.9375rem;
+    line-height: 1.5;
+  }
+
+  .blog-card-meta,
+  .blog-post-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .blog-post-meta {
+    margin-bottom: 1rem;
+  }
+
+  .blog-badge {
+    display: inline-block;
+    padding: 0.125rem 0.5rem;
+    border-radius: 980px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+  }
+
+  .blog-badge--itinerary {
+    background: var(--accent-color-fallback);
+    background: var(--accent-color);
+    color: #fff;
+  }
+
+  .blog-badge--dev {
+    background: var(--surface-color);
+    color: var(--text-color);
+  }
+
+  .blog-card-meta time,
+  .blog-post-meta time {
+    color: var(--text-secondary);
+    font-size: 0.8125rem;
+  }
+}

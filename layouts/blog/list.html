@@ -1,0 +1,42 @@
+{{ define "main" }}
+
+<section class="blog-index">
+  <h1>{{ .Title }}</h1>
+  <p class="blog-subtitle">{{ .Description }}</p>
+
+  <div class="blog-filters">
+    <button class="blog-filter active" data-filter="all">All</button>
+    <button class="blog-filter" data-filter="itinerary">Itineraries</button>
+    <button class="blog-filter" data-filter="dev">Dev</button>
+  </div>
+
+  <div class="blog-posts">
+    {{ range .Pages.ByDate.Reverse }}
+    <a href="{{ .RelPermalink }}" class="blog-card" data-category="{{ .Params.category }}">
+      <div class="blog-card-meta">
+        <span class="blog-badge blog-badge--{{ .Params.category }}">
+          {{ if eq .Params.category "itinerary" }}Itinerary{{ else }}Dev{{ end }}
+        </span>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      </div>
+      <h2>{{ .Title }}</h2>
+      <p>{{ .Description }}</p>
+    </a>
+    {{ end }}
+  </div>
+</section>
+
+<script>
+  document.querySelectorAll('.blog-filter').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelector('.blog-filter.active').classList.remove('active');
+      btn.classList.add('active');
+      const filter = btn.dataset.filter;
+      document.querySelectorAll('.blog-card').forEach(card => {
+        card.style.display = filter === 'all' || card.dataset.category === filter ? '' : 'none';
+      });
+    });
+  });
+</script>
+
+{{ end }}

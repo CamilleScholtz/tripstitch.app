@@ -1,0 +1,116 @@
+@layer components {
+  .prose .highlight {
+    margin-bottom: 1.5rem;
+  }
+
+  .prose pre {
+    background: var(--surface-color);
+    border: 1px solid var(--border-color);
+    border-radius: 0.75rem;
+    padding: 1.25rem 1.5rem;
+    overflow-x: auto;
+    font-size: 0.8125rem;
+    line-height: 1.7;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .prose code {
+    font-family: "SF Mono", ui-monospace, Menlo, monospace;
+    font-size: 0.85em;
+  }
+
+  .prose :not(pre) > code {
+    background: var(--surface-color);
+    padding: 0.125rem 0.375rem;
+    border-radius: 0.25rem;
+    font-size: 0.8125rem;
+  }
+
+  /* Chroma syntax highlighting — muted, theme-matched palette */
+
+  /* Keywords (let, func, guard, if, case, return, etc.) */
+  .chroma .kd,
+  .chroma .k {
+    color: var(--accent-color-fallback);
+    color: var(--accent-color);
+    font-weight: 500;
+  }
+
+  /* Strings */
+  .chroma .s,
+  .chroma .s1,
+  .chroma .s2,
+  .chroma .sa,
+  .chroma .sb,
+  .chroma .sc,
+  .chroma .dl,
+  .chroma .sd,
+  .chroma .se,
+  .chroma .sh,
+  .chroma .si,
+  .chroma .sx,
+  .chroma .sr,
+  .chroma .ss {
+    color: #8A9A5B;
+  }
+
+  /* Types and classes */
+  .chroma .nc,
+  .chroma .kt,
+  .chroma .bp {
+    color: #7AAFCF;
+  }
+
+  /* Functions and method calls */
+  .chroma .nf {
+    color: var(--text-color);
+  }
+
+  /* Comments */
+  .chroma .c,
+  .chroma .c1,
+  .chroma .ch,
+  .chroma .cm,
+  .chroma .cs,
+  .chroma .cp,
+  .chroma .cpf {
+    color: var(--text-secondary);
+    font-style: italic;
+  }
+
+  /* Numbers */
+  .chroma .mi,
+  .chroma .mf,
+  .chroma .mh,
+  .chroma .mo,
+  .chroma .mb,
+  .chroma .il {
+    color: #C9A06C;
+  }
+
+  /* Operators and punctuation */
+  .chroma .o,
+  .chroma .p {
+    color: var(--text-secondary);
+  }
+
+  /* Properties / identifiers */
+  .chroma .n,
+  .chroma .na,
+  .chroma .nb,
+  .chroma .ni,
+  .chroma .nl,
+  .chroma .nn,
+  .chroma .no,
+  .chroma .nv,
+  .chroma .nx,
+  .chroma .nt {
+    color: var(--text-color);
+  }
+
+  /* Attributes (@Model, @MainActor, etc.) */
+  .chroma .nd {
+    color: var(--accent-color-fallback);
+    color: var(--accent-color);
+  }
+}
