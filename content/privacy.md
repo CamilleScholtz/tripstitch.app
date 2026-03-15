@@ -55,7 +55,7 @@ We also use standard Apple platform services (iCloud, Maps, Weather, Notificatio
 
 ### AI Data Processing
 
-When you generate an itinerary or chat with Mia, your trip data — including traveler names, preferences, saved locations, and itinerary details — is sent to Anthropic's Claude API. Anthropic's data practices are governed by their [usage policy](https://www.anthropic.com/policies). We store AI requests and responses on our server to support the generation process.
+When you generate an itinerary or chat with Mia, your trip data — including traveler names, preferences, saved locations, and itinerary details — is sent to Anthropic's Claude API. Anthropic's data practices are governed by their [usage policy](https://www.anthropic.com/legal/aup). We store AI requests and responses on our server to support the generation process.
 
 ## 4. Data Storage & Retention
 
