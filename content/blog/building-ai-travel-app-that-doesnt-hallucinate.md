@@ -116,13 +116,25 @@ final class ChatMessage {
 
 Same problem with arrays of custom types. Agent steps, pending modifications, anything that isn't a flat scalar or a `@Model` relationship gets serialized as a JSON `Data` blob with manual encode/decode helpers. It works. It's not elegant. But it syncs.
 
+## Choosing a Laravel AI package
+
+The backend is Laravel, and I needed a way to talk to Claude's API with tool support and streaming. There are a few packages in this space and I tried most of them before settling.
+
+**laravel/ai** was the first one I reached for since it's the official package. It was disappointing. It's basically a worse wrapper around PrismPHP. The abstraction doesn't add much and the API surface felt clunky. I moved on quickly.
+
+**PrismPHP** was better. It has a reasonable API, supports multiple providers, and handles tool calling. But it kept falling short on provider-specific features. The abstraction layer means you lose access to things individual providers support that others don't. Looking at the source code didn't inspire confidence either. When they added support for the new GPT 5-4 models, they included the full model but forgot to add the mini and small variants for certain features. Small thing, but it says something about how carefully the codebase is maintained.
+
+**Laragent** is what I ended up with. It's focused, well-structured, and doesn't try to abstract away the differences between providers. Tool definitions are clean, streaming works reliably, and when I need a Claude-specific feature I can just use it. The API feels like it was designed by someone who actually builds with these models day to day.
+
 ## Device attestation
 
 An AI app with a free trial and no auth is an invitation for abuse. I didn't want users to create accounts. The app should just work. So I used Apple's App Attest.
 
 App Attest lets the backend verify that every request comes from a real device running a legitimate copy of the app. No user accounts, no login screen, no email verification. The device itself is the credential. This gives me device-level rate limiting and abuse prevention out of the box.
 
-It's not bulletproof. A determined attacker can bypass it. But it raises the bar enough that casual abuse isn't worth the effort, and the user experience is zero-friction.
+On top of attestation, the backend now also verifies subscription status server-side. When a request comes in, the server checks the device's App Store subscription receipt before processing anything that costs real money (like generation). This closes the gap where someone could fake subscription state on the client. The attestation confirms the device is real, and the receipt check confirms they're actually paying. Both happen before any AI call goes out.
+
+It's not bulletproof. A determined attacker can bypass attestation. But the combination of device verification and server-side subscription checks raises the bar enough that casual abuse isn't worth the effort, and the user experience stays zero-friction.
 
 ## What I learned
 
