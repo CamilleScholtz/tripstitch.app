@@ -67,7 +67,7 @@ For building an actual day-by-day itinerary. Tell it where you're going and for 
 
 It replaces the "spend an evening reading blog posts and saving Google Maps pins" phase of trip planning. Useful if you want a structured plan without the research hours.
 
-[Download Tripstitch](https://apps.apple.com/app/tripstitch)
+[Download Tripstitch](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571)
 
 ### Google Maps lists
 

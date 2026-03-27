@@ -113,4 +113,4 @@ El Raval is grittier than the Gothic Quarter but has some of the best food in th
 
 ---
 
-Want to customize this itinerary for your dates? [Tripstitch](https://apps.apple.com/app/tripstitch) builds personalized Barcelona plans with real places, maps, and walking routes — plan your trip in seconds.
+Want to customize this itinerary for your dates? [Tripstitch](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571) builds personalized Barcelona plans with real places, maps, and walking routes — plan your trip in seconds.

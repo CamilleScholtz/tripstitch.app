@@ -128,4 +128,4 @@ Rome's aperitivo culture is an institution. Order a Spritz or Negroni (€8–12
 
 ---
 
-Want to customize this itinerary for your trip? [Tripstitch](https://apps.apple.com/app/tripstitch) generates personalized Rome plans with real places, maps, and walking routes — plan your trip in seconds.
+Want to customize this itinerary for your trip? [Tripstitch](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571) generates personalized Rome plans with real places, maps, and walking routes — plan your trip in seconds.

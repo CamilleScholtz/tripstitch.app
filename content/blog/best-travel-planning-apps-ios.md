@@ -25,7 +25,7 @@ The AI assistant (called Mia) builds your initial plan, then you can tweak it th
 
 The free version gives you enough to plan a full trip. Worth it if you'd rather start with a smart plan and edit than build from scratch.
 
-[Download Tripstitch](https://apps.apple.com/app/tripstitch)
+[Download Tripstitch](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571)
 
 ---
 

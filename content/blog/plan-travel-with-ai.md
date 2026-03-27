@@ -39,7 +39,7 @@ The gap between "chatbot that generates text" and "travel planning tool" is pret
 
 A few apps have started bridging this gap. They use the same underlying AI models but add a layer of verification. They check suggestions against real place databases, add map pins with actual coordinates, and calculate travel times between stops.
 
-[Tripstitch](https://apps.apple.com/app/tripstitch) takes this approach by running every AI suggestion through Apple Maps. The AI generates the plan structure (which neighborhoods to visit, how to pace your days) but when it needs a specific restaurant or museum, it searches Apple Maps for real places in the right area. The result is an itinerary where every pin on the map is a real, verified location. You can chat with the AI to adjust the plan, and changes update the map in real time.
+[Tripstitch](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571) takes this approach by running every AI suggestion through Apple Maps. The AI generates the plan structure (which neighborhoods to visit, how to pace your days) but when it needs a specific restaurant or museum, it searches Apple Maps for real places in the right area. The result is an itinerary where every pin on the map is a real, verified location. You can chat with the AI to adjust the plan, and changes update the map in real time.
 
 This is where AI travel planning is heading. The creative work (pacing, theming, routing) stays with the AI. The factual work (real places, real hours, real distances) gets grounded in actual data. It's a better split than asking the AI to do both.
 

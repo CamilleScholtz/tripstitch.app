@@ -169,4 +169,4 @@ Options for your last Paris evening:
 
 ---
 
-Want to adjust this itinerary for your travel dates? [Tripstitch](https://apps.apple.com/app/tripstitch) creates custom Paris plans with real places and walking routes — plan your trip in seconds.
+Want to adjust this itinerary for your travel dates? [Tripstitch](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571) creates custom Paris plans with real places and walking routes — plan your trip in seconds.

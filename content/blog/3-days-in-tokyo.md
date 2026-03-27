@@ -110,4 +110,4 @@ Finish with dinner in the area. Roppongi has a reputation as a nightlife distric
 
 ---
 
-Want to customize this itinerary for your dates and travel style? [Tripstitch](https://apps.apple.com/app/tripstitch) builds personalized day-by-day plans with real places, maps, and walking directions — in seconds.
+Want to customize this itinerary for your dates and travel style? [Tripstitch](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571) builds personalized day-by-day plans with real places, maps, and walking directions — in seconds.

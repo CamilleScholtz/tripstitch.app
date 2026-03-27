@@ -148,4 +148,4 @@ Building Tripstitch took about three months as a solo project. A few things I'd 
 
 **Streaming matters more than speed.** Users are patient when they can see progress. A minute-long generation that streams feels faster than 30 seconds behind a spinner.
 
-If you want to try it, [Tripstitch is on the App Store](https://apps.apple.com/app/tripstitch). I'm still iterating on the AI pipeline and would appreciate feedback from people who travel and care about this stuff.
+If you want to try it, [Tripstitch is on the App Store](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571). I'm still iterating on the AI pipeline and would appreciate feedback from people who travel and care about this stuff.

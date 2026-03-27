@@ -35,7 +35,7 @@ Ask ChatGPT for a 5-day Rome itinerary and you'll get a reasonable framework in 
 
 The catch, as anyone who's tried this knows: the specific recommendations are unreliable. Restaurant names get invented. Opening hours are wrong. The "hidden gem" it suggests might not exist. You still need to verify everything, which eats into the time you saved.
 
-Newer AI tools try to solve this by grounding suggestions in real data. [Tripstitch](https://apps.apple.com/app/tripstitch), for example, runs every recommendation through Apple Maps, so the restaurants, museums, and cafes in your itinerary are real places with real coordinates instead of hallucinated names. You get a full plan on a map that you can actually follow, then adjust it through chat if you want to swap things around.
+Newer AI tools try to solve this by grounding suggestions in real data. [Tripstitch](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571), for example, runs every recommendation through Apple Maps, so the restaurants, museums, and cafes in your itinerary are real places with real coordinates instead of hallucinated names. You get a full plan on a map that you can actually follow, then adjust it through chat if you want to swap things around.
 
 This gets you about 80% of what a travel agent's itinerary would look like, in a fraction of the time and at a fraction of the cost. The missing 20% is the insider knowledge. The agent who knows that the hotel's "garden view" room actually faces a parking lot, or that a specific tour guide in Florence is worth booking three months ahead.
 

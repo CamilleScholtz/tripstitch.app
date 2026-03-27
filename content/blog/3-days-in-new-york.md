@@ -129,4 +129,4 @@ For a final splurge: **Don Angie** in the West Village for creative Italian-Amer
 
 ---
 
-Want to build your own New York itinerary? [Tripstitch](https://apps.apple.com/app/tripstitch) creates personalized day-by-day plans with real places, maps, and walking routes — plan your NYC trip in seconds.
+Want to build your own New York itinerary? [Tripstitch](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571) creates personalized day-by-day plans with real places, maps, and walking routes — plan your NYC trip in seconds.

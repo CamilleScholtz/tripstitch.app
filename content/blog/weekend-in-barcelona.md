@@ -90,4 +90,4 @@ Use your last evening however feels right:
 
 ---
 
-Planning a longer Barcelona trip? [Tripstitch](https://apps.apple.com/app/tripstitch) generates custom itineraries with real places, maps, and walking directions — plan your trip in seconds.
+Planning a longer Barcelona trip? [Tripstitch](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571) generates custom itineraries with real places, maps, and walking directions — plan your trip in seconds.

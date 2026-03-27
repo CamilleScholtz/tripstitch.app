@@ -166,4 +166,4 @@ It's your last night. Some options:
 
 ---
 
-Want to tweak this itinerary for your travel style? [Tripstitch](https://apps.apple.com/app/tripstitch) lets you adjust any day, swap activities, and get a custom plan with maps and directions — plan your Tokyo trip in seconds.
+Want to tweak this itinerary for your travel style? [Tripstitch](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571) lets you adjust any day, swap activities, and get a custom plan with maps and directions — plan your Tokyo trip in seconds.

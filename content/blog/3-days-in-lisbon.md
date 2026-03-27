@@ -123,4 +123,4 @@ End your Lisbon trip with fado — the haunting Portuguese music that originated
 
 ---
 
-Want to customize this for your trip? [Tripstitch](https://apps.apple.com/app/tripstitch) generates personalized Lisbon itineraries with real places, maps, and walking routes — plan your trip in seconds.
+Want to customize this for your trip? [Tripstitch](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571) generates personalized Lisbon itineraries with real places, maps, and walking routes — plan your trip in seconds.

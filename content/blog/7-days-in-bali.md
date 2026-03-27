@@ -195,4 +195,4 @@ Spend your final hours at the pool or beach. Pack up and head to the airport —
 
 ---
 
-Want to customize this Bali itinerary? [Tripstitch](https://apps.apple.com/app/tripstitch) generates personalized trip plans with real places, maps, and daily routes — plan your Bali trip in seconds.
+Want to customize this Bali itinerary? [Tripstitch](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571) generates personalized trip plans with real places, maps, and daily routes — plan your Bali trip in seconds.
