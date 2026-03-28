@@ -2,7 +2,8 @@
 title: "Building an AI Travel App That Doesn't Hallucinate"
 date: 2026-03-14
 description: "How I built Tripstitch — the technical decisions behind AI-powered itinerary planning, from structured generation to Apple Maps grounding."
-category: dev
+category: development
+image: /img/blog/building-ai-travel-app.webp
 ---
 
 Most AI travel tools are wrappers. A text box, a prompt, a list of places pulled from web search. That's fine for a quick answer, but it's not a travel planning tool. It doesn't know what's near what, can't rearrange your afternoon when it rains, and forgets everything the moment you close the tab.

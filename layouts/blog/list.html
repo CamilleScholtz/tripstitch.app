@@ -8,20 +8,26 @@
     <button class="blog-filter active" data-filter="all">All</button>
     <button class="blog-filter" data-filter="itinerary">Itineraries</button>
     <button class="blog-filter" data-filter="guide">Guides</button>
-    <button class="blog-filter" data-filter="dev">Dev</button>
+    <button class="blog-filter" data-filter="development">Development</button>
   </div>
 
   <div class="blog-posts">
     {{ range .Pages.ByDate.Reverse }}
-    <a href="{{ .RelPermalink }}" class="blog-card" data-category="{{ .Params.category }}">
-      <div class="blog-card-meta">
-        <span class="blog-badge blog-badge--{{ .Params.category }}">
-          {{ if eq .Params.category "itinerary" }}Itinerary{{ else if eq .Params.category "guide" }}Guide{{ else }}Dev{{ end }}
-        </span>
-        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+    {{ $page := . }}
+    <a href="{{ .RelPermalink }}" class="blog-card{{ with .Params.image }} blog-card--has-image{{ end }}" data-category="{{ $page.Params.category }}">
+      {{ with .Params.image }}
+      <img class="blog-card-image" src="{{ . }}" alt="">
+      {{ end }}
+      <div class="blog-card-content">
+        <div class="blog-card-meta">
+          <span class="blog-badge blog-badge--{{ $page.Params.category }}">
+            {{ if eq $page.Params.category "itinerary" }}Itinerary{{ else if eq $page.Params.category "guide" }}Guide{{ else }}Development{{ end }}
+          </span>
+          <time datetime="{{ $page.Date.Format "2006-01-02" }}">{{ $page.Date.Format "Jan 2, 2006" }}</time>
+        </div>
+        <h2>{{ $page.Title }}</h2>
+        <p>{{ $page.Description }}</p>
       </div>
-      <h2>{{ .Title }}</h2>
-      <p>{{ .Description }}</p>
     </a>
     {{ end }}
   </div>

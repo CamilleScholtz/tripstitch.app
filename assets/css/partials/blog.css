@@ -108,7 +108,7 @@
     color: #fff;
   }
 
-  .blog-badge--dev {
+  .blog-badge--development {
     background: var(--surface-color);
     color: var(--text-color);
   }
@@ -117,5 +117,26 @@
   .blog-post-meta time {
     color: var(--text-secondary);
     font-size: 0.8125rem;
+  }
+
+  .blog-post-image {
+    width: 100%;
+    border-radius: 12px;
+    margin-bottom: 2rem;
+  }
+
+  .blog-card--has-image {
+    display: grid;
+    grid-template-columns: 1fr 160px;
+    align-items: center;
+    gap: 1.5rem;
+  }
+
+  .blog-card-image {
+    width: 100%;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+    border-radius: 8px;
+    order: 1;
   }
 }
