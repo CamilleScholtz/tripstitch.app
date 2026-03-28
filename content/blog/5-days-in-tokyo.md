@@ -20,7 +20,7 @@ Best time to visit: late March through mid-April for cherry blossoms, or Novembe
 
 ### Morning — Senso-ji & Asakusa
 
-Get to Senso-ji before 8 AM. The Kaminarimon gate, the incense smoke, the five-story pagoda — all of it hits harder without 500 people in frame. Walk Nakamise-dori as the stalls open and grab a hot ningyo-yaki (cake filled with red bean paste) for ¥300.
+Get to Senso-ji before 8 AM. Founded in 645 AD, it's Tokyo's oldest temple and draws over 30 million visitors per year — the most visited religious site in the world. The Kaminarimon gate, the incense smoke, the five-story pagoda — all of it hits harder without 500 people in frame. Walk Nakamise-dori as the stalls open and grab a hot ningyo-yaki (cake filled with red bean paste) for ¥300.
 
 Cross the Sumida River and look back at the skyline — Tokyo Skytree, the Asahi Beer Hall's golden flame, the old Asakusa rooftops. This view is free and better than any observation deck.
 
@@ -44,13 +44,13 @@ JR Yamanote to Shinjuku. Start at **Omoide Yokocho** for yakitori and beer in th
 
 ### Morning — Meiji Shrine & Harajuku
 
-The forested walk to Meiji Shrine is the most peaceful ten minutes you'll have in Tokyo. Visit the shrine, then exit onto Takeshita Street for teen fashion chaos. Walk down to **Cat Street** and **Omotesando** for a more curated vibe — the Omotesando Hills building by Tadao Ando is worth ducking into just for the architecture.
+The forested walk to Meiji Shrine — dedicated in 1920 within 70 hectares of woodland planted with 120,000 trees from across Japan — is the most peaceful ten minutes you'll have in Tokyo. Visit the shrine, then exit onto Takeshita Street for teen fashion chaos. Walk down to **Cat Street** and **Omotesando** for a more curated vibe — the Omotesando Hills building by Tadao Ando is worth ducking into just for the architecture.
 
 **Where to eat:** **Harajuku Gyoza Lou** — pan-fried gyoza that's crispy on the bottom and juicy inside. Six pieces for ¥290. There's always a line, but it moves fast.
 
 ### Afternoon — Shibuya
 
-Walk to Shibuya Crossing. For the best view, book **Shibuya Sky** in advance (¥2,000, the sunset slot is worth it) or grab a window seat at the Starbucks on the second floor of the Tsutaya building.
+Walk to Shibuya Crossing — the world's busiest pedestrian intersection, where up to 3,000 people cross simultaneously at peak times. For the best view, book **Shibuya Sky** in advance (¥2,000, the sunset slot is worth it) or grab a window seat at the Starbucks on the second floor of the Tsutaya building.
 
 Explore **Nonbei Yokocho** (Drunkard's Alley) near the station — it's like a mini Golden Gai that most tourists walk right past. Then wander through **Dogenzaka** and the Center-gai backstreets.
 
@@ -100,7 +100,7 @@ Take the JR Shonan-Shinjuku Line from Shinjuku to Kamakura (about 1 hour, covere
 
 ### Morning — Great Buddha & Hase-dera
 
-Start at **Kotoku-in** to see the Great Buddha (Daibutsu). It's 13 meters tall, bronze, and has been sitting outside since a tsunami destroyed the temple around it in the 15th century. ¥300 entry. You can go inside the hollow statue for an extra ¥50.
+Start at **Kotoku-in** to see the Great Buddha (Daibutsu). Cast in 1252, it's 13.35 meters tall, weighs approximately 121 tonnes, and has been sitting outside since a tsunami destroyed the temple around it in 1498. ¥300 entry. You can go inside the hollow statue for an extra ¥50.
 
 Walk to **Hase-dera** next door — the hillside garden has ocean views and the cave with carved figures is atmospheric. ¥400.
 
@@ -134,7 +134,7 @@ Wander the vintage shops (there are dozens), grab a coffee, and enjoy a morning 
 
 ### Afternoon — Yanaka
 
-Take trains to Nippori station (about 30 minutes). **Yanaka** is old-school Tokyo — narrow streets, independent shops, temple cats, wooden houses. It survived the war and the earthquake, so it still looks like the city did decades ago.
+Take trains to Nippori station (about 30 minutes). **Yanaka** is old-school Tokyo — narrow streets, independent shops, temple cats, wooden houses. It survived both the 1923 Great Kanto Earthquake (magnitude 7.9, which destroyed 44% of Tokyo) and World War II firebombing, so it still looks like the city did decades ago.
 
 Walk **Yanaka Ginza** (the shopping street), visit a few of the 70+ temples in the area, and check out the **SCAI the Bathhouse** gallery — a contemporary art space in a converted 200-year-old bathhouse.
 
@@ -157,7 +157,7 @@ It's your last night. Some options:
 
 - **Budget:** ¥12,000–18,000/day for food, transport, and activities. Add the Kamakura day trip (¥2,000 round trip on JR). Hotels range from ¥6,000 (business hotel) to ¥35,000+ (upscale).
 - **Best season:** Late March–April (cherry blossoms), October–November (mild, beautiful light). Avoid July–August unless you enjoy sweating through your shirt.
-- **Getting around:** Suica card on JR and Metro lines. Google Maps for transit directions — it's flawless in Tokyo.
+- **Getting around:** Suica card on JR and Metro lines. Tokyo's rail network carries over 13 million passengers daily — the busiest urban rail system in the world. Google Maps for transit directions — it's flawless in Tokyo.
 - **Visa:** Most Western passports get 90-day visa-free entry.
 - **Cash:** Always carry some. ¥10,000–20,000 is a safe amount. 7-Eleven ATMs accept international cards.
 - **Plugs:** Type A and B (same as the US). Voltage is 100V — most chargers auto-adapt.

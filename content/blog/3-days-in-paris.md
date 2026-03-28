@@ -20,7 +20,7 @@ Three days in Paris is enough to see the icons, eat ridiculously well, and get l
 
 Go early. Book your timed ticket online (€29.40 to the summit) at least two weeks ahead — walk-up lines can be 2+ hours. The 9 AM slot is ideal: manageable crowds, good light for photos.
 
-Take the elevator to the second floor, then the summit. On a clear day, you can see 70 km in every direction. Budget 90 minutes total.
+Standing 330 meters tall, built in just 2 years for the 1889 World Exhibition, and attracting roughly 7 million visitors per year, the Eiffel Tower is the most-visited paid monument in the world. Take the elevator to the second floor, then the summit. On a clear day, you can see 70 km in every direction. Budget 90 minutes total.
 
 After, walk across the Champ de Mars to **Rue Cler** — a market street where Parisians actually shop. Pick up a baguette, some cheese, and sit in the small park at the end of the street. That's a better Paris experience than any sit-down restaurant at the tower.
 
@@ -28,7 +28,7 @@ After, walk across the Champ de Mars to **Rue Cler** — a market street where P
 
 ### Afternoon — Musée d'Orsay
 
-Walk along the Seine (20 minutes from the Eiffel Tower area) to the **Musée d'Orsay**. It's a converted train station full of Impressionist art — Monet, Renoir, Degas, Van Gogh. Less overwhelming than the Louvre and more enjoyable if you only have a couple of hours. Book online (€16). Don't miss the giant clock window on the top floor — the view through it is iconic.
+Walk along the Seine (20 minutes from the Eiffel Tower area) to the **Musée d'Orsay**. Housed in the former Gare d'Orsay railway station (built 1898–1900), it holds the world's largest collection of Impressionist and Post-Impressionist art — over 3,000 paintings by Monet, Renoir, Degas, Van Gogh, and others. Less overwhelming than the Louvre and more enjoyable if you only have a couple of hours. Book online (€16). Don't miss the giant clock window on the top floor — the view through it is iconic.
 
 **Where to eat:** Skip the museum cafe. Walk 5 minutes to **Café de Flore** or **Les Deux Magots** on Boulevard Saint-Germain — both are famous and overpriced, but the terrace people-watching is worth one €6 espresso.
 
@@ -46,7 +46,7 @@ Stay in the neighborhood. Saint-Germain is Paris at its most Parisian — booksh
 
 ### Morning — The Louvre
 
-Book online (€22), enter through the Pyramid, and don't try to see everything. You could spend a week here and not finish. Pick a focus: the Italian Renaissance wing (Mona Lisa, Winged Victory, Venus de Milo) or the less-crowded Egyptian antiquities and Northern European paintings.
+Book online (€22), enter through the Pyramid, and don't try to see everything. With over 380,000 objects across 72,735 square meters of gallery space, the Louvre is the world's largest museum — you could spend a week here and not finish. Pick a focus: the Italian Renaissance wing (Mona Lisa, Winged Victory, Venus de Milo) or the less-crowded Egyptian antiquities and Northern European paintings.
 
 Two hours is enough for a focused visit. Three if you linger. Go straight to the Mona Lisa first (follow the signs and the crowd), spend 30 seconds confirming it's smaller than you expected, then move on to the art you'll actually remember.
 
@@ -72,7 +72,7 @@ Walk to **Île Saint-Louis** — the smaller island behind Notre-Dame. Get ice c
 
 ### Morning — Montmartre
 
-Take the Metro to Anvers or Abbesses. Walk up to **Sacré-Cœur** — the view from the steps is one of the best panoramas of the city. Inside is free. Go early (before 10 AM) to beat the crowds and the guys selling bracelets on the steps.
+Take the Metro to Anvers or Abbesses. Walk up to **Sacré-Cœur** — completed in 1914 and standing 83 meters above street level at the highest point in Paris (130 meters above sea level). The view from the steps is one of the best panoramas of the city, and it receives over 10 million visitors per year. Inside is free. Go early (before 10 AM) to beat the crowds and the guys selling bracelets on the steps.
 
 Wander the backstreets behind the basilica: **Rue Lepic** (where Amélie's cafe is — **Café des Deux Moulins**, fine for a coffee), **Place du Tertre** (skip the portrait artists), and the vineyard of Montmartre. The neighborhood is hilly, cobblestoned, and photogenic from every angle.
 

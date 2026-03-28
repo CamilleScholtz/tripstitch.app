@@ -46,7 +46,7 @@ Walk to **Barceloneta** beach (15 minutes from El Born). The beach itself is fin
 
 ### Morning — Sagrada Família
 
-Book online well in advance (€26 with tower access, €36 with guided tour). The 9 AM slot has the best light — the east-facing stained glass windows turn the interior into a kaleidoscope. This building will change how you think about architecture. Gaudí started it in 1882, it's still not finished, and it's the most visited monument in Spain. Budget 90 minutes inside.
+Book online well in advance (€26 with tower access, €36 with guided tour). The 9 AM slot has the best light — the 1,154 east-facing stained glass windows turn the interior into a kaleidoscope. This UNESCO World Heritage Site will change how you think about architecture. Gaudí started it in 1882, it draws over 4.5 million visitors per year (making it the most visited monument in Spain), and its completion is projected for 2026 — 144 years after construction began. When finished, the tallest tower will reach 172.5 meters, making it the tallest church in the world. Budget 90 minutes inside.
 
 Take the elevator up one of the towers for vertiginous views of the city and the construction still happening around you.
 
@@ -54,7 +54,7 @@ Take the elevator up one of the towers for vertiginous views of the city and the
 
 ### Afternoon — Park Güell
 
-Bus or Metro to **Park Güell** (€10, book a timed entry). Gaudí's public park is a mosaic-covered wonderland on a hill overlooking the city. The "monument zone" (the colorful stuff) requires a ticket, but the rest of the park is free and has equally good views.
+Bus or Metro to **Park Güell** (€10, book a timed entry). Built between 1900 and 1914 and designated a UNESCO World Heritage Site, Gaudí's public park is a mosaic-covered wonderland on a hill overlooking the city. The "monument zone" (the colorful stuff) requires a ticket, but the rest of the park is free and has equally good views.
 
 The iconic serpentine bench at the main terrace is the shot you're looking for. Go in the early afternoon — morning slots sell out and the light is better for photos later anyway.
 
@@ -64,7 +64,7 @@ After the park, walk downhill through **Gràcia** — Barcelona's most village-l
 
 ### Evening — Eixample & Passeig de Gràcia
 
-Walk down **Passeig de Gràcia** — Barcelona's most elegant boulevard. Three Gaudí buildings are on or near this street: **Casa Batlló** (€35, worth the interior visit for the bone-shaped balconies and dragon-scale roof), **Casa Milà / La Pedrera** (€25, the rooftop at sunset is magical), and **Casa Amatller**. Even from the outside, they're extraordinary.
+Walk down **Passeig de Gràcia** — Barcelona's most elegant boulevard. Three Gaudí buildings are on or near this street, all UNESCO-listed: **Casa Batlló** (€35, redesigned by Gaudí in 1904–1906, worth the interior visit for the bone-shaped balconies and dragon-scale roof), **Casa Milà / La Pedrera** (€25, built 1906–1912 with no load-bearing walls — a radical innovation for its time, and the rooftop at sunset is magical), and **Casa Amatller**. Even from the outside, they're extraordinary.
 
 **Where to eat:** **Cervecería Catalana** on Carrer de Mallorca — one of the best tapas bars in the city. No reservations, so arrive at 8 PM (early by Spanish standards) or expect a 30-minute wait. The patatas bravas and jamón ibérico croquettes are essential. €20–30 per person.
 
@@ -76,7 +76,7 @@ Walk down **Passeig de Gràcia** — Barcelona's most elegant boulevard. Three G
 
 ### Morning — La Boqueria Market
 
-Walk down **Las Ramblas** (early, before it gets crowded) to **Mercat de la Boqueria**. This is one of the best food markets in Europe. Grab a fresh juice (€2–3), some jamón ibérico, and whatever fruit looks good. The stalls at the back are cheaper and more local than the ones at the entrance.
+Walk down **Las Ramblas** (early, before it gets crowded) to **Mercat de la Boqueria**. Dating back to 1217 (over 800 years old), with more than 200 stalls spread across 2,583 square meters, this is one of the best food markets in Europe. Grab a fresh juice (€2–3), some jamón ibérico, and whatever fruit looks good. The stalls at the back are cheaper and more local than the ones at the entrance.
 
 Don't fill up entirely — just graze. Save room for lunch.
 
@@ -84,7 +84,7 @@ Don't fill up entirely — just graze. Save room for lunch.
 
 ### Afternoon — Montjuïc
 
-Metro to Parallel, then take the funicular up to **Montjuïc**. The hill has multiple draws: the **Fundació Joan Miró** (€15, one of the best modern art museums in Spain), the **Montjuïc Castle** (€5, panoramic views of the port and city), and the Olympic Stadium from the 1992 Games.
+Metro to Parallel, then take the funicular up to **Montjuïc**. The hill has multiple draws: the **Fundació Joan Miró** (€15, housing over 14,000 works — one of the best modern art museums in Spain), the **Montjuïc Castle** (€5, a 17th-century fortress with panoramic views of the port and city), and the **Olympic Stadium** built for the 1992 Summer Olympics (which brought 9,356 athletes from 169 countries to Barcelona and transformed the city's waterfront).
 
 Walk through the gardens between sites — they're terraced and beautiful, especially in spring. The **Magic Fountain** at the base of Montjuïc does a light show on certain evenings (free, check schedule).
 

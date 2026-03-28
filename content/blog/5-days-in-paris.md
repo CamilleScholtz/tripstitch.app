@@ -20,7 +20,7 @@ Best time to go: May–June (long days, warm evenings) or September–October (c
 
 ### Morning — Eiffel Tower & Champ de Mars
 
-Book the 9 AM slot online (€29.40 to the summit). Arrive 15 minutes early. Take the elevator to the second floor, then to the top. On a clear day, it's worth every euro. Budget 90 minutes.
+Book the 9 AM slot online (€29.40 to the summit). Arrive 15 minutes early. The Eiffel Tower stands 330 meters tall, was built in just 2 years for the 1889 World Exhibition, and draws roughly 7 million visitors annually — making it the most-visited paid monument in the world. Take the elevator to the second floor, then to the top. On a clear day, you can see up to 70 km in every direction. Budget 90 minutes.
 
 Walk through the Champ de Mars to the **École Militaire** end, then over to **Rue Cler** — a real Parisian market street. Pick up bread, cheese, and fruit. Eat on a bench like a local.
 
@@ -48,7 +48,7 @@ Walk across the Pont Alexandre III (the most ornate bridge in Paris — good pho
 
 ### Morning — The Louvre
 
-Enter at 9 AM through the Pyramid (book online, €22). Strategy: go directly to the Denon Wing for the Mona Lisa and Winged Victory, then loop through the Italian paintings. If those rooms are packed, start with the Egyptian wing — it's excellent and way less crowded.
+Enter at 9 AM through the Pyramid (book online, €22). The Louvre is the world's largest and most-visited art museum — over 380,000 objects across 72,735 square meters of gallery space, drawing approximately 8.9 million visitors in 2024. Strategy: go directly to the Denon Wing for the Mona Lisa and Winged Victory, then loop through the Italian paintings. If those rooms are packed, start with the Egyptian wing — it's excellent and way less crowded.
 
 Two to three hours is the right amount. Any more and museum fatigue sets in.
 
@@ -56,7 +56,7 @@ Two to three hours is the right amount. Any more and museum fatigue sets in.
 
 ### Afternoon — Covered Passages
 
-Paris has 150-year-old glass-roofed shopping arcades hidden throughout the city, and most tourists walk right past them. Start at **Galerie Vivienne** (the most beautiful, with mosaic floors and a vintage bookshop), then walk to **Passage des Panoramas** (the oldest, full of stamp dealers and bistros) and **Passage Jouffroy** (home to the Musée Grévin wax museum and an eccentric antique cane shop).
+Paris once had over 150 glass-roofed shopping arcades — the world's first shopping malls, built in the early 1800s. Only about 20 survive today, hidden throughout the city, and most tourists walk right past them. Start at **Galerie Vivienne** (the most beautiful, with mosaic floors and a vintage bookshop), then walk to **Passage des Panoramas** (the oldest, full of stamp dealers and bistros) and **Passage Jouffroy** (home to the Musée Grévin wax museum and an eccentric antique cane shop).
 
 This whole area around the 2nd and 9th arrondissements is underrated. It feels like stepping into a 19th-century novel.
 
@@ -108,7 +108,7 @@ RER C from central Paris to Versailles-Château Rive Gauche (40 minutes, €7.50
 
 ### Morning — The Palace
 
-Book tickets online (€21 for the palace, €27 for palace + gardens when the fountains are running). Go straight to the Hall of Mirrors — it's stunning even with crowds. Then work backward through the King's and Queen's apartments. Budget 2 hours for the palace.
+Book tickets online (€21 for the palace, €27 for palace + gardens when the fountains are running). The Palace of Versailles has 2,300 rooms across 63,154 square meters, and the gardens span 800 hectares — making it one of the largest palace complexes in the world. Go straight to the Hall of Mirrors — 73 meters long with 357 mirrors reflecting 357 windows — it's stunning even with crowds. Then work backward through the King's and Queen's apartments. Budget 2 hours for the palace.
 
 ### Afternoon — The Gardens & Trianon
 
@@ -134,11 +134,11 @@ You probably walked through Le Marais on Day 2, but it deserves a full morning. 
 
 Walk **Rue des Rosiers** for falafel (Mi-Va-Mi or L'As du Fallafel, whoever has the shorter line). Browse the boutiques on Rue de Turenne and Rue des Francs-Bourgeois.
 
-**Where to eat:** **Marché des Enfants Rouges** — the oldest covered market in Paris (1615). Stalls selling Moroccan, Japanese, Lebanese, and French food. Find a spot at a communal table. €8–15 for a generous plate.
+**Where to eat:** **Marché des Enfants Rouges** — the oldest covered market in Paris, operating continuously since 1615 (over 400 years). Stalls selling Moroccan, Japanese, Lebanese, and French food. Find a spot at a communal table. €8–15 for a generous plate.
 
 ### Afternoon — Île de la Cité & Latin Quarter
 
-Walk to **Île de la Cité**. If Notre-Dame is open, go inside (free). Cross to the Latin Quarter and walk through the **Panthéon** (€11.50) — the crypt holds Victor Hugo, Marie Curie, Alexandre Dumas. The Foucault pendulum swings from the dome.
+Walk to **Île de la Cité**. If Notre-Dame is open, go inside (free) — the cathedral was built between 1163 and 1345, survived the devastating 2019 fire, and reopened in December 2024 after a 5-year restoration. Cross to the Latin Quarter and walk through the **Panthéon** (€11.50) — the neoclassical monument holds the remains of over 80 notable French citizens, including Victor Hugo, Marie Curie, Alexandre Dumas, and Voltaire. The Foucault pendulum swings from the dome.
 
 Wander the backstreets of the 5th arrondissement. **Rue Mouffetard** is a market street that's been here since the Middle Ages. It's touristy at the top but gets more local as you walk south.
 

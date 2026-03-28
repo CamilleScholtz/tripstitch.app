@@ -20,7 +20,7 @@ Best time to go: September–November (perfect weather, fall colors in Central P
 
 ### Morning — Central Park
 
-Start at the southeast corner (59th & 5th) and walk north. **Bethesda Fountain** is the centerpiece — the angel statue, the lake, the arched terrace. Continue to **Bow Bridge** for the postcard view. If it's early enough, the park is quiet and you'll share the paths with runners and dog walkers, not tour groups.
+Start at the southeast corner (59th & 5th) and walk north through Central Park — 843 acres of green space (larger than the principality of Monaco), designed by Frederick Law Olmsted and Calvert Vaux, and open since 1858. It draws an estimated 42 million visitors per year. **Bethesda Fountain** is the centerpiece — the angel statue, the lake, the arched terrace. Continue to **Bow Bridge** for the postcard view. If it's early enough, the park is quiet and you'll share the paths with runners and dog walkers, not tour groups.
 
 Walk west to **Strawberry Fields** (the John Lennon memorial mosaic near 72nd Street) and exit onto the **Upper West Side** near the American Museum of Natural History. The museum ($28 suggested donation) is worth it if you're into dinosaurs, space, or the Hall of Ocean Life with the giant blue whale.
 
@@ -32,7 +32,7 @@ Budget 2 hours for the park walk, 2 hours if you add the museum.
 
 Walk south through Midtown. Hit these in order:
 
-- **Top of the Rock** ($43) at Rockefeller Center — better than the Empire State Building because you can see the Empire State Building from here. Book a timed entry for early afternoon.
+- **Top of the Rock** ($43) at Rockefeller Center — 70 floors up (260 meters), better than the Empire State Building because you can see the Empire State Building from here. Book a timed entry for early afternoon.
 - **St. Patrick's Cathedral** — free, impressive, and right across the street from Rock Center.
 - **Times Square** — go, see it, take a photo, leave. It's sensory overload and every restaurant there is bad. Five minutes is enough.
 - **Bryant Park** — a calm block behind the New York Public Library. Good for sitting with a coffee.
@@ -56,7 +56,7 @@ If you're seeing a Broadway show, the TKTS booth in Times Square sells same-day 
 
 ### Morning — Lower Manhattan & Financial District
 
-Start at the **9/11 Memorial** — the two reflecting pools where the Twin Towers stood. Free to visit. The **9/11 Museum** ($33) is powerful and detailed; budget 90 minutes if you go inside. Even from outside, the memorial is moving.
+Start at the **9/11 Memorial** — two reflecting pools, each nearly an acre in size and the largest man-made waterfalls in North America, set within the footprints of the original Twin Towers. The names of all 2,977 victims are inscribed in bronze around the pools. Free to visit. The **9/11 Museum** ($33) houses over 40,000 artifacts and is powerful and detailed; budget 90 minutes if you go inside. Even from outside, the memorial is moving.
 
 Walk to the **Oculus** (the Calatrava-designed transit hub) — love or hate the architecture, the interior is stunning. Grab coffee here.
 
@@ -66,7 +66,7 @@ Walk south to **Battery Park** for a view of the Statue of Liberty across the wa
 
 ### Afternoon — Brooklyn Bridge & DUMBO
 
-Walk the **Brooklyn Bridge** from Manhattan to Brooklyn. It takes 30–40 minutes and the views of both skylines are unbeatable. Start from the Manhattan side (entrance at City Hall) for the better reveal — Brooklyn opens up in front of you as you walk.
+Walk the **Brooklyn Bridge** from Manhattan to Brooklyn. Completed in 1883 after 14 years of construction, it was the world's first steel-wire suspension bridge and spans 1,825 meters across the East River. It takes 30–40 minutes and the views of both skylines are unbeatable. Start from the Manhattan side (entrance at City Hall) for the better reveal — Brooklyn opens up in front of you as you walk.
 
 Land in **DUMBO** (Down Under the Manhattan Bridge Overpass). Walk to **Washington Street** for the famous view of the Manhattan Bridge framed between brick buildings. The waterfront at **Brooklyn Bridge Park** is excellent — lawns, playgrounds, and views back at lower Manhattan.
 
@@ -88,7 +88,7 @@ Take the L train (or an Uber) to **Williamsburg** for dinner and drinks. Bedford
 
 ### Morning — Chelsea & the High Line
 
-Start at the **High Line** — a 1.5-mile elevated park built on abandoned rail tracks running from the Meatpacking District to Hudson Yards. Enter at Gansevoort Street (south end) and walk north. The architecture, the plantings, and the views between buildings are all carefully designed. It's New York's best free attraction.
+Start at the **High Line** — a 1.5-mile (2.33 km) elevated park built on abandoned 1930s freight rail tracks, opened in phases from 2009 to 2014, and now attracting over 8 million visitors per year, running from the Meatpacking District to Hudson Yards. Enter at Gansevoort Street (south end) and walk north. The architecture, the plantings, and the views between buildings are all carefully designed. It's New York's best free attraction.
 
 Exit around 16th Street and walk to **Chelsea Market** — a food hall in a former Nabisco factory. **Los Lobos** for tacos, **Very Fresh Noodles** for hand-pulled noodles, **Doughnuttery** for mini doughnuts. This is a better-than-average food hall.
 
@@ -108,7 +108,7 @@ Walk south into **SoHo** — cast-iron buildings, high-end boutiques, and cobble
 
 Continue east through **Little Italy** — it's only a few blocks now, but the atmosphere on Mulberry Street is still fun. Skip the restaurants (they're tourist traps) and continue into **Chinatown** for the real food.
 
-**Where to eat:** **Nom Wah Tea Parlor** in Chinatown — the oldest dim sum restaurant in New York (since 1920). The original egg roll, the turnip cakes, and the shrimp dumplings are all excellent. $25–35 for a full spread for two. Or **Wo Hop** downstairs on Mott Street for Cantonese-American food at 1 AM (they're open almost 24 hours).
+**Where to eat:** **Nom Wah Tea Parlor** in Chinatown — the oldest dim sum parlor in New York City, operating continuously since 1920 (over 100 years). The original egg roll, the turnip cakes, and the shrimp dumplings are all excellent. $25–35 for a full spread for two. Or **Wo Hop** downstairs on Mott Street for Cantonese-American food at 1 AM (they're open almost 24 hours).
 
 For a final splurge: **Don Angie** in the West Village for creative Italian-American food (the pinwheel lasagna is iconic, reservations essential, $40–60 per person) or **Via Carota** on the same block for simple Italian done perfectly ($30–50, no reservations, expect a wait).
 

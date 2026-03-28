@@ -5,7 +5,7 @@ description: "Travel agents vs planning yourself vs AI tools. What actually make
 category: guide
 ---
 
-Travel agents didn't disappear. They rebranded. The ones still around call themselves "travel advisors" or "trip designers" and charge anywhere from $200 to $500+ per trip for personalized planning. Some work on commission from hotels and tour operators, some charge flat fees, and some do both.
+Travel agents didn't disappear. They rebranded. The American Society of Travel Advisors (ASTA) reported 117,000 active travel advisors in the US in 2024, up from a post-pandemic low. The ones still around call themselves "travel advisors" or "trip designers" and charge anywhere from $200 to $500+ per trip for personalized planning. Some work on commission from hotels and tour operators, some charge flat fees, and some do both.
 
 The question isn't whether they're good at their jobs. Many are. The question is whether what they offer is worth the cost when you can do most of it yourself, and when AI tools can now handle the parts that used to take hours.
 
@@ -75,7 +75,7 @@ This gets you about 80% of what a travel agent's itinerary would look like, in a
 
 ## So, do you need one?
 
-For most trips that most people take (a week in Europe, a long weekend somewhere new, a family vacation) you probably don't need a travel agent. The information is freely available, the booking tools are good, and AI can now handle the planning structure that used to take hours.
+The global travel industry is worth over $9.5 trillion annually (WTTC, 2024), and most of those trips are planned without an agent. For most trips that most people take (a week in Europe, a long weekend somewhere new, a family vacation) you probably don't need a travel agent. The information is freely available, the booking tools are good, and AI can now handle the planning structure that used to take hours.
 
 Where agents still win is at the extremes. Very complex logistics, very high-end travel, or very unfamiliar destinations. If your trip involves internal flights in developing countries, luxury lodge networks, or multi-generational family coordination, pay the fee. You'll get it back in saved stress.
 

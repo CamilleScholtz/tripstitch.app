@@ -28,7 +28,7 @@ Stop at **Miradouro de Santa Luzia** on the way up — a terrace with tile panel
 
 ### Afternoon — Castelo de São Jorge
 
-**Castelo de São Jorge** (€15) sits at the top of Alfama's hill. The castle walls are from the Moorish era (11th century), and the views from the ramparts are the best in the city — 360 degrees of Lisbon, the river, and the April 25th Bridge. Budget an hour.
+**Castelo de São Jorge** (€15) sits at the top of Alfama's hill. The fortifications date back to the 1st century BC, expanded during the Moorish era (8th–12th century), and were the seat of Portuguese royal power for centuries. The views from the ramparts are the best in the city — 360 degrees of Lisbon, the Tagus River (the longest river in the Iberian Peninsula at 1,007 km), and the April 25th Bridge. Budget an hour.
 
 Walk back down through Alfama. Stop at the **Lisbon Cathedral (Sé)** — the fortress-like Romanesque building predates the earthquake. Free entry, quick visit.
 
@@ -52,9 +52,9 @@ Walk or take a tram to **Bairro Alto**. During the day, it's quiet. At night, it
 
 Take the tram 15E or bus 728 from Praça do Comércio to Belém (20 minutes). This riverside district is where Portuguese explorers set sail, and the monuments reflect that ambition.
 
-Start at the **Jerónimos Monastery** (€10, free first Sundays) — the Manueline architecture is absurdly detailed. The cloisters are the highlight; budget 45 minutes. Walk to the **Belém Tower** (€8) — it's smaller than you'd expect from photos, but it's pretty on the waterfront. The **Padrão dos Descobrimentos** (Monument to the Discoveries) is nearby and has a rooftop with good views (€10).
+Start at the **Jerónimos Monastery** (€10, free first Sundays) — a UNESCO World Heritage Site built between 1501 and 1601, funded by profits from the spice trade. The Manueline architecture is absurdly detailed. The cloisters are the highlight; budget 45 minutes. Walk to the **Belém Tower** (€8) — a UNESCO World Heritage Site built in 1515–1519 as a ceremonial gateway and defense fort for the Age of Discoveries. It's smaller than you'd expect from photos, but it's pretty on the waterfront. The **Padrão dos Descobrimentos** (Monument to the Discoveries) is nearby and has a rooftop with good views (€10).
 
-**Where to eat:** The reason half the people in Belém are here: **Pastéis de Belém**. This is the original pastel de nata bakery (since 1837). The line moves fast. Order 2–3 pastéis (€1.30 each), dust them with cinnamon and powdered sugar, and eat them warm. If you sit inside, you can see the bakers working behind glass.
+**Where to eat:** The reason half the people in Belém are here: **Pastéis de Belém**. This is the original pastel de nata bakery (since 1837), using a secret recipe from the monks of the nearby Jerónimos Monastery. They produce and sell over 20,000 pastéis per day. The line moves fast. Order 2–3 pastéis (€1.30 each), dust them with cinnamon and powdered sugar, and eat them warm. If you sit inside, you can see the bakers working behind glass.
 
 ### Afternoon — MAAT & LX Factory
 
@@ -84,9 +84,9 @@ Start in **Praça do Comércio** — the grand waterfront square that was rebuil
 
 Take the **Santa Justa Elevator** (€5 round trip, or free with a Viva Viagem day pass) for an elevated view of the Baixa grid. Or save your €5 and walk up the connecting walkway from Carmo Convent — same view, no line.
 
-Visit the **Carmo Convent** (€5) — its roof collapsed in the 1755 earthquake and was never rebuilt. The open-air Gothic ruins are haunting and beautiful.
+Visit the **Carmo Convent** (€5) — its roof collapsed in the devastating 1755 earthquake (estimated magnitude 8.5, killing 30,000–50,000 people and destroying 85% of Lisbon's buildings) and was deliberately never rebuilt as a memorial. The open-air Gothic ruins are haunting and beautiful.
 
-Walk through **Chiado** — Lisbon's literary and cultural neighborhood. **Bertrand** on Rua Garrett is the world's oldest bookstore (1732). **A Brasileira** cafe has a Fernando Pessoa statue outside — sit on the terrace for an espresso.
+Walk through **Chiado** — Lisbon's literary and cultural neighborhood. **Bertrand** on Rua Garrett is the world's oldest operating bookstore (founded 1732, Guinness-certified). **A Brasileira** cafe has a Fernando Pessoa statue outside — sit on the terrace for an espresso.
 
 **Where to eat:** **Café A Brasileira** for coffee and a pastel de nata on the terrace. €3–5. Or head to **Time Out Market** early to beat the lunch crowd.
 

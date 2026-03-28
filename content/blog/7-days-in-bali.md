@@ -42,7 +42,7 @@ Walk 10 minutes south to the **Campuhan Ridge Walk** — a paved path along a na
 
 ### Morning — Tegallalang Rice Terraces
 
-Drive 20 minutes north to **Tegallalang** (arrange a driver for the day — 400,000–600,000 IDR / $25–40). The tiered rice paddies are the iconic Bali shot. Come before 10 AM to beat the crowds and the heat. You can walk down into the terraces — there's a small donation expected (10,000–20,000 IDR) at various access points.
+Drive 20 minutes north to **Tegallalang** (arrange a driver for the day — 400,000–600,000 IDR / $25–40). The tiered rice paddies, part of Bali's ancient subak irrigation system (UNESCO World Heritage since 2012, dating back to the 9th century), are the iconic Bali shot. Come before 10 AM to beat the crowds and the heat. You can walk down into the terraces — there's a small donation expected (10,000–20,000 IDR) at various access points.
 
 The swing photos you've seen on Instagram are here too ($35 for the commercial swings). Skip the giant ones — they're crowded and overpriced. Some smaller warungs on the edges of the terraces have their own swings for free or a small fee.
 
@@ -50,7 +50,7 @@ The swing photos you've seen on Instagram are here too ($35 for the commercial s
 
 ### Afternoon — Tirta Empul Water Temple
 
-Continue 15 minutes to **Tirta Empul** (50,000 IDR entry). This is a holy water temple where Balinese Hindus come for purification rituals. You can participate — rent a sarong (included with entry), wade into the pools, and move through the fountains one by one. It's a genuine spiritual experience, not a tourist performance. Be respectful: follow the direction of the queue, don't take selfies in the water, and go with the intention of actually being present.
+Continue 15 minutes to **Tirta Empul** (50,000 IDR entry). Founded in 926 AD around a natural spring that Balinese Hindus consider sacred, this is a holy water temple where worshippers come for purification rituals. You can participate — rent a sarong (included with entry), wade into the pools, and move through the fountains one by one. It's a genuine spiritual experience, not a tourist performance. Be respectful: follow the direction of the queue, don't take selfies in the water, and go with the intention of actually being present.
 
 Drive back to Ubud via **Gunung Kawi** if you have time — a valley with 11th-century rock-cut shrines reached by 300+ steps. Impressive but tiring.
 
@@ -64,7 +64,7 @@ Drive back to Ubud via **Gunung Kawi** if you have time — a valley with 11th-c
 
 ### Morning — Sacred Monkey Forest
 
-**Ubud Monkey Forest** (80,000 IDR) is a lush temple complex with 1,000+ long-tailed macaques. The trees, the moss-covered statues, and the ravine bridge make it feel like a set from Indiana Jones. The monkeys are bold — secure your sunglasses, water bottles, and anything dangling. They will take things. Don't make eye contact with them, don't smile (they interpret it as aggression), and don't bring food.
+**Ubud Monkey Forest** (80,000 IDR) covers 12.5 hectares of natural forest with over 1,260 trees and is home to roughly 1,300 long-tailed macaques across 7 groups. The trees, the moss-covered statues, and the ravine bridge make it feel like a set from Indiana Jones. The monkeys are bold — secure your sunglasses, water bottles, and anything dangling. They will take things. Don't make eye contact with them, don't smile (they interpret it as aggression), and don't bring food.
 
 Budget an hour. Go early when the monkeys are calmer.
 
@@ -152,7 +152,7 @@ Take a **surf lesson** at Batu Bolong Beach (300,000–500,000 IDR / $20–32 fo
 
 ### Afternoon — Tanah Lot Temple
 
-Drive 30 minutes to **Tanah Lot** (60,000 IDR) — a sea temple on a rock formation that's cut off from the shore at high tide. Come in the late afternoon; the sunset behind the temple silhouette is Bali's most photographed view. The grounds around it are a bit commercialized (souvenir shops, food stalls), but the temple itself is beautiful.
+Drive 30 minutes to **Tanah Lot** (60,000 IDR) — a 16th-century sea temple built on a rock formation that's cut off from the shore at high tide, one of 7 sea temples forming a chain along Bali's southwestern coast. Come in the late afternoon; the sunset behind the temple silhouette is Bali's most photographed view. The grounds around it are a bit commercialized (souvenir shops, food stalls), but the temple itself is beautiful.
 
 **Where to eat:** Head back to Seminyak for dinner. **Mama San** for upscale Asian food in a converted warehouse — the crispy duck curry is excellent. 150,000–300,000 IDR ($10–20).
 
@@ -187,11 +187,11 @@ Spend your final hours at the pool or beach. Pack up and head to the airport —
 - **Budget:** 500,000–1,000,000 IDR/day ($32–65) for food, transport, and activities. Accommodation varies wildly: 200,000 IDR ($13) for a guesthouse to 3,000,000+ IDR ($195+) for a villa with a pool.
 - **Best season:** April–October (dry). Peak season is July–August and Christmas/New Year. Shoulder months (April, May, September, October) have the best balance of weather and prices.
 - **Getting around:** Hire a driver ($25–40/day) or rent a scooter ($4–7/day). Grab works in Seminyak and Ubud but not Uluwatu. Traffic in Kuta/Seminyak is terrible during rush hour.
-- **Visa:** Visa on arrival for most nationalities (500,000 IDR / $32, 30 days, extendable once).
+- **Visa:** Visa on arrival for citizens of 90+ countries (500,000 IDR / $32, 30 days, extendable once for an additional 30 days).
 - **Money:** Indonesian Rupiah (IDR). ATMs are everywhere. Cards accepted at nicer restaurants and hotels; cash needed at warungs, markets, and small shops.
 - **Plugs:** Type C and F (European two-pin). Voltage is 230V. US/UK travelers need an adapter. Some hotels have universal outlets.
 - **Language:** Bahasa Indonesia. English is widely spoken in tourist areas. Learning "terima kasih" (thank you) is appreciated.
-- **Temples:** Always wear a sarong (provided free at most temples). Don't step on offerings (small leaf baskets with flowers and incense on sidewalks). Women on their period are traditionally asked not to enter temples.
+- **Temples:** Bali has over 20,000 Hindu temples (pura) — the island is roughly 87% Hindu, making it a unique enclave in the world's largest Muslim-majority country. Always wear a sarong (provided free at most temples). Don't step on offerings (small leaf baskets with flowers and incense on sidewalks). Women on their period are traditionally asked not to enter temples.
 
 ---
 

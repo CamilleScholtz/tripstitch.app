@@ -22,7 +22,7 @@ Best time to go: April–May or September–October. Summer is brutal (35°C+, m
 
 Book a timed entry ticket online in advance (€18 for Colosseum + Forum + Palatine, or €24 with arena floor access). The 8:30 AM opening slot is the move — the Colosseum is tolerable at 9 AM and miserable by noon.
 
-Walk through the arena floor (if your ticket includes it) and imagine 50,000 Romans watching gladiators from the stands. The hypogeum (underground tunnels where fighters and animals waited) is visible from above. Budget 60–90 minutes.
+The Colosseum was completed in 80 AD, took 8 years to build, and held 50,000–80,000 spectators — making it the largest amphitheater ever built. It's a UNESCO World Heritage Site and draws over 7 million visitors per year. Walk through the arena floor (if your ticket includes it) and imagine the roaring crowd. The hypogeum (underground tunnels where fighters and animals waited) is visible from above. Budget 60–90 minutes.
 
 Exit and walk directly into the **Roman Forum** — your ticket covers both. This is where Roman public life happened: speeches, trials, commerce, processions. The **Arch of Titus**, the **Temple of Saturn**, and the **Via Sacra** (Sacred Way) are the highlights. Get a map at the entrance or you'll be staring at unlabeled ruins.
 
@@ -35,9 +35,9 @@ Continue uphill to **Palatine Hill** — emperors built their palaces here, and 
 Walk north through the centro storico. Hit these in order (they're close together):
 
 - **Piazza Venezia** — the giant white Vittoriano monument. Take the elevator to the top (€7) for the best panoramic view in Rome.
-- **Trevi Fountain** — go in the afternoon, not the morning, when everyone else does. It's crowded regardless, but less so at 2–3 PM. Throw a coin over your left shoulder.
+- **Trevi Fountain** — completed in 1762, standing 26 meters high and 49 meters wide, it's the largest Baroque fountain in Rome. Visitors throw an estimated €3,000 in coins per day (the money is collected nightly and donated to charity). Go in the afternoon, not the morning, when everyone else does. It's crowded regardless, but less so at 2–3 PM. Throw a coin over your left shoulder.
 - **Piazza di Spagna** (Spanish Steps) — sit on the steps, people-watch, and rest your legs.
-- **Pantheon** — free entry since 2023 (now €5). The 2,000-year-old unreinforced concrete dome with the oculus (open hole at the top) is an engineering marvel. Go inside, look up, and try to comprehend that this was built in 125 AD. 15 minutes is enough.
+- **Pantheon** — free entry since 2023 (now €5). The dome measures 43.3 meters in diameter — identical to the building's height — and remained the world's largest unreinforced concrete dome for over 1,300 years after its construction in 125 AD. The oculus at the top is 8.7 meters wide and is the only source of light. Go inside, look up, and try to comprehend that this has stood for nearly 2,000 years. 15 minutes is enough.
 
 **Where to eat:** **Giolitti** near the Pantheon for gelato — it's been around since 1900 and the pistachio is excellent. €3–5. Avoid any gelateria where the gelato is piled in bright, fluffy mounds — that's a sign of artificial ingredients. Real gelato is flat in the tray and the colors are muted.
 
@@ -59,7 +59,7 @@ Walk to **Campo de' Fiori** — the square has a morning market and an evening b
 
 Book online in advance (€17). Go for the 7:30 AM early entry if available (€37, worth every cent) — you'll have the Sistine Chapel nearly to yourself before the 9 AM rush.
 
-The Vatican Museums are enormous. Here's a focused route: **Pinacoteca** (Raphael and Caravaggio) → **Gallery of Maps** (the most photogenic hallway in the world) → **Raphael Rooms** (School of Athens) → **Sistine Chapel**. Budget 2.5–3 hours.
+The Vatican Museums house over 70,000 works across 7 kilometers of galleries — one of the largest art collections in the world, attracting roughly 6 million visitors per year. Here's a focused route: **Pinacoteca** (Raphael and Caravaggio) → **Gallery of Maps** (the most photogenic hallway in the world) → **Raphael Rooms** (School of Athens) → **Sistine Chapel**. Budget 2.5–3 hours.
 
 In the Sistine Chapel, look up. Take your time. Then look at the wall behind the altar — Michelangelo's *Last Judgment* is just as impressive as the ceiling and most people miss it because they're staring straight up.
 
@@ -69,7 +69,7 @@ There's a "secret exit" from the Sistine Chapel directly into St. Peter's Basili
 
 ### Afternoon — St. Peter's Basilica & Castel Sant'Angelo
 
-**St. Peter's Basilica** is free to enter (dress code: covered shoulders and knees). The scale is almost impossible to process — it's the largest church in the world. Michelangelo's *Pietà* is in the first chapel on the right. Climb the dome (€8 for stairs, €10 for elevator + stairs) — 551 steps total, claustrophobic in places, but the view from the top is the reward.
+**St. Peter's Basilica** is free to enter (dress code: covered shoulders and knees). The scale is almost impossible to process — at 20,139 square meters of interior space, it's the largest church in the world. The dome, designed by Michelangelo, rises 136.6 meters from floor to cross. Michelangelo's *Pietà*, carved when he was just 24 years old, is in the first chapel on the right. Climb the dome (€8 for stairs, €10 for elevator + stairs) — 551 steps total, claustrophobic in places, but the view from the top is the reward.
 
 Walk along the river to **Castel Sant'Angelo** (€15) — a 2nd-century mausoleum turned papal fortress turned museum. The rooftop terrace has a great view of St. Peter's dome and the Tiber.
 
@@ -91,7 +91,7 @@ Wander the backstreets. The further you get from the main piazza, the more local
 
 ### Morning — Villa Borghese & Galleria Borghese
 
-**Galleria Borghese** (€15, reservation mandatory — book weeks ahead) is Rome's best art museum and one of the best in the world. It's small enough to see in 2 hours (your timed entry enforces this), and the collection is staggering: Bernini's *Apollo and Daphne*, Caravaggio's *David with the Head of Goliath*, Canova's *Pauline Bonaparte*. The 9 AM slot is ideal.
+**Galleria Borghese** (€15, reservation mandatory — book weeks ahead) is Rome's best art museum and one of the best in the world. Built in 1613 as a villa for Cardinal Scipione Borghese, it's small enough to see in 2 hours (your timed entry enforces this — only 360 visitors are admitted per 2-hour slot), and the collection is staggering: Bernini's *Apollo and Daphne*, Caravaggio's *David with the Head of Goliath*, Canova's *Pauline Bonaparte*. The 9 AM slot is ideal.
 
 After, walk through the **Villa Borghese gardens** — rent a rowboat on the lake (€3 for 20 minutes), find the Pincio Terrace for a view over Piazza del Popolo, and enjoy a park morning.
 

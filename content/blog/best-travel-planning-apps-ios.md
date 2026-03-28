@@ -5,7 +5,7 @@ description: "The best iOS travel planning apps for building itineraries, organi
 category: guide
 ---
 
-Planning a trip on your phone should be simple. Open an app, pick your dates, get a plan. In practice, most travel apps are either glorified note-taking tools or booking engines that don't care what you do after you land. Here are the ones actually worth downloading.
+Planning a trip on your phone should be simple. Open an app, pick your dates, get a plan. With over 1.8 billion international tourist arrivals in 2024 (UNWTO), and 85% of travelers using a smartphone to plan or manage their trips (Google Travel Insights), the demand for good planning tools has never been higher. In practice, most travel apps are either glorified note-taking tools or booking engines that don't care what you do after you land. Here are the ones actually worth downloading.
 
 ## What makes a good travel planning app
 

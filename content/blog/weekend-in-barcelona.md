@@ -20,9 +20,9 @@ Best for: a long weekend trip from elsewhere in Europe or a quick add-on to a lo
 
 ### Morning — Sagrada Família
 
-Go first thing. Book the 9 AM slot online (€26 with tower, €36 guided) — this is non-negotiable for a weekend trip since tickets sell out days ahead. The morning light through the east-facing stained glass is the reason photographers fight for this time slot.
+Go first thing. Book the 9 AM slot online (€26 with tower, €36 guided) — this is non-negotiable for a weekend trip since tickets sell out days ahead. The morning light through the 1,154 east-facing stained glass windows is the reason photographers fight for this time slot.
 
-Budget 90 minutes. Take the tower elevator for the aerial view, then sit in a pew and just look up. The forest-column interior is unlike anything else in architecture.
+Budget 90 minutes. This UNESCO World Heritage Site has been under construction since 1882 — over 140 years — and draws 4.5 million visitors annually, making it Spain's most-visited monument. Take the tower elevator for the aerial view, then sit in a pew and just look up. The forest-column interior is unlike anything else in architecture.
 
 **Where to eat:** Walk to **Fábrica Moritz** on Ronda de Sant Antoni — a restored brewery with a food hall. Good beer, good tapas, and a calm space to refuel. €10–18.
 
@@ -50,7 +50,7 @@ Head into the Barceloneta neighborhood for dinner. The old fishing village stree
 
 ### Morning — Park Güell & Gràcia
 
-Book Park Güell for 9:30 AM (€10). The mosaic benches, the gingerbread-house gatehouses, and the city views are at their best in morning light. Budget an hour in the monument zone, then wander the free areas of the park.
+Book Park Güell for 9:30 AM (€10). Designed by Gaudí between 1900 and 1914 and now a UNESCO World Heritage Site, the mosaic benches, the gingerbread-house gatehouses, and the city views are at their best in morning light. Budget an hour in the monument zone, then wander the free areas of the park.
 
 Walk downhill into **Gràcia** — the most neighborhood-y neighborhood in Barcelona. Locals sitting in plazas, independent coffee shops, vintage stores. **Plaça de la Vila de Gràcia** and **Plaça del Sol** are the two main squares — grab a coffee and watch the morning unfold.
 
@@ -58,7 +58,7 @@ Walk downhill into **Gràcia** — the most neighborhood-y neighborhood in Barce
 
 ### Afternoon — Passeig de Gràcia & Eixample
 
-Walk down **Passeig de Gràcia** to see the Gaudí trio: **Casa Batlló**, **Casa Milà (La Pedrera)**, and **Casa Amatller**. If you only go inside one, make it Casa Batlló (€35) — the interior is surreal and the rooftop terrace with the dragon-spine chimney is the best Gaudí photo op in the city.
+Walk down **Passeig de Gràcia** to see the Gaudí trio: **Casa Batlló**, **Casa Milà (La Pedrera)**, and **Casa Amatller**. If you only go inside one, make it Casa Batlló (€35, UNESCO World Heritage) — redesigned by Gaudí in 1904–1906, the interior is surreal and the rooftop terrace with the dragon-spine chimney is the best Gaudí photo op in the city.
 
 Continue down to **Plaça Catalunya** and walk **Las Ramblas** to **La Boqueria market**. Even in the afternoon, the market is alive. Grab a juice, some jamón, and whatever catches your eye at the seafood counters.
 
@@ -69,7 +69,7 @@ Continue down to **Plaça Catalunya** and walk **Las Ramblas** to **La Boqueria 
 Use your last evening however feels right:
 
 - **Montjuïc sunset** — take the cable car up for panoramic views, then catch the Magic Fountain light show if it's running (weekends, usually starts at 9 or 9:30 PM, free)
-- **El Raval exploration** — the neighborhood west of Las Ramblas has some of the best bars in the city. **Bar Marsella** has been serving absinthe since 1820.
+- **El Raval exploration** — the neighborhood west of Las Ramblas has some of the best bars in the city. **Bar Marsella** has been serving absinthe since 1820 — over 200 years, making it Barcelona's oldest bar.
 - **More tapas** — you can never have too many. **Bar Cañete** for upscale plates, or **Bodega 1900** (if you can get a table) for Adrià-family creativity at tapas prices.
 
 **Where to eat:** **Tickets** by the Adrià brothers if you booked weeks ago (molecular gastronomy tapas, ~€60). If not, **Bar Cañete** for traditional-with-a-twist tapas (€30–45) or **4 Gats** — the restaurant where Picasso used to hang out, with solid Catalan food in a gorgeous Modernista interior (€25–35).

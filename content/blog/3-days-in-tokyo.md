@@ -18,9 +18,9 @@ Three days in Tokyo is tight, but it's enough to hit the highlights without burn
 
 ### Morning — Senso-ji & Asakusa
 
-Start early. Senso-ji Temple opens at 6 AM, and the Nakamise-dori shopping street in front of it is a completely different place before 9 AM — quiet, photogenic, no crowds. Walk through the massive Kaminarimon gate, browse the stalls as they open (grab a fresh melon pan), and explore the temple grounds.
+Start early. Senso-ji Temple — Tokyo's oldest, founded in 645 AD and attracting over 30 million visitors per year — opens at 6 AM, and the Nakamise-dori shopping street in front of it is a completely different place before 9 AM — quiet, photogenic, no crowds. Walk through the massive Kaminarimon gate, browse the stalls as they open (grab a fresh melon pan), and explore the temple grounds.
 
-After the temple, walk along the Sumida River toward Tokyo Skytree. You don't need to go up — the view from the base is impressive enough, and ¥3,100 is steep for a lookout. The Asahi Beer Hall with its golden flame sculpture is right there and makes for a better photo anyway.
+After the temple, walk along the Sumida River toward Tokyo Skytree. At 634 meters, it's the tallest tower in the world (and the second-tallest freestanding structure after the Burj Khalifa). You don't need to go up — the view from the base is impressive enough, and ¥3,100 is steep for a lookout. The Asahi Beer Hall with its golden flame sculpture is right there and makes for a better photo anyway.
 
 **Where to eat:** Grab breakfast at **Pelican Cafe** (famous for their thick-cut toast and sandwiches, ¥600–900) or pick up taiyaki (fish-shaped pastry filled with red bean) from any street vendor on Nakamise-dori.
 
@@ -46,7 +46,7 @@ After dinner, walk to Kabukicho for the full neon experience. The new Kabukicho 
 
 ### Morning — Meiji Shrine & Harajuku
 
-Walk through the towering torii gate into Meiji Shrine's forest. This is central Tokyo, but it feels like you've stepped into the countryside. The shrine itself is simple and beautiful. Budget 45 minutes.
+Walk through the towering torii gate into Meiji Shrine's forest — 70 hectares of woodland planted with 120,000 trees donated from across Japan when the shrine was dedicated in 1920. This is central Tokyo, but it feels like you've stepped into the countryside. The shrine itself is simple and beautiful. Budget 45 minutes.
 
 Exit onto Takeshita Street for maximum contrast — it's a candy-colored pedestrian strip packed with crepe shops, vintage stores, and fashion that makes zero sense and total sense at the same time. It gets packed by 11 AM, so go early.
 
@@ -54,7 +54,7 @@ Exit onto Takeshita Street for maximum contrast — it's a candy-colored pedestr
 
 ### Afternoon — Shibuya
 
-Walk south to Shibuya (15 minutes from Harajuku). Time your arrival for a crossing cycle at **Shibuya Crossing** — stand on the second-floor terrace at Starbucks or the rooftop of Shibuya Scramble Square's **Shibuya Sky** observation deck (¥2,000, book online to skip the line) for the best overhead view.
+Walk south to Shibuya (15 minutes from Harajuku). Time your arrival for a crossing cycle at **Shibuya Crossing** — the world's busiest pedestrian intersection, where up to 3,000 people cross simultaneously during peak times — stand on the second-floor terrace at Starbucks or the rooftop of Shibuya Scramble Square's **Shibuya Sky** observation deck (¥2,000, book online to skip the line) for the best overhead view.
 
 Visit the Hachiko statue, then explore **Shibuya Center-gai** and the backstreets. **Shibuya Parco** has interesting shops and a Nintendo store on the 6th floor. The neighborhood is better for wandering than for any single destination.
 
@@ -100,9 +100,9 @@ Finish with dinner in the area. Roppongi has a reputation as a nightlife distric
 
 ## Practical Info
 
-- **Budget:** ¥10,000–15,000/day covers food, transport, and entry fees comfortably. Hotels range from ¥5,000 (capsule hotel) to ¥30,000+ (nice hotel in Shinjuku).
-- **Best season:** Late March–April (cherry blossoms), October–November (fall colors, mild weather). Summer is hot and humid. Winter is cold but clear.
-- **Getting around:** Tokyo's train system is the best in the world. Get a Suica card. Google Maps works perfectly for transit directions.
+- **Budget:** ¥10,000–15,000/day ($65–100 USD) covers food, transport, and entry fees comfortably. Hotels range from ¥5,000 (capsule hotel) to ¥30,000+ (nice hotel in Shinjuku).
+- **Best season:** Late March–April (cherry blossoms), October–November (fall colors, mild weather). Summer (June–August) averages 30°C+ with high humidity. Winter is cold (5–10°C) but clear.
+- **Getting around:** Tokyo's train system carries over 13 million passengers daily — the busiest urban rail network in the world. Get a Suica card. Google Maps works perfectly for transit directions.
 - **Visa:** Many nationalities get 90-day visa-free entry. Check before you go.
 - **Cash:** Japan is more card-friendly than it used to be, but smaller restaurants and markets are still cash-only. Carry ¥10,000 on you.
 - **Plugs:** Type A and B (same as the US). Voltage is 100V — most modern chargers handle this fine.

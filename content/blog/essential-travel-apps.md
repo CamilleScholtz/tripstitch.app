@@ -39,7 +39,7 @@ If you're traveling outside the US, this is how most of the world communicates. 
 
 ### Wise (formerly TransferWise)
 
-The Wise debit card gives you the real exchange rate with a small transparent fee. No "3% foreign transaction fee" surprise on your statement. You can hold multiple currencies and convert between them at market rate. It's consistently cheaper than using your regular bank card abroad.
+The Wise debit card gives you the real mid-market exchange rate with a small transparent fee (typically 0.35–1% depending on the currency pair). No "3% foreign transaction fee" surprise on your statement — for context, most banks charge 2.5–3% on international transactions, meaning Wise saves roughly $20–30 per $1,000 spent abroad. You can hold multiple currencies and convert between them at market rate. It's consistently cheaper than using your regular bank card abroad.
 
 Order the physical card a couple weeks before your trip. Add it to Apple Pay so you have a backup if the card gets lost.
 
@@ -53,9 +53,9 @@ Most people don't need this. But if you're doing a longer trip or backpacking, k
 
 ### Airalo (or eSIM.me)
 
-Skip the SIM card shops at the airport. Airalo sells eSIMs you can buy and install before you even board the plane. Pick your destination, choose a data plan (usually $5-15 for a week), and activate it when you land. Takes 5 minutes.
+Skip the SIM card shops at the airport. Airalo sells eSIMs you can buy and install before you even board the plane. Pick your destination, choose a data plan (usually $5-15 for a week), and activate it when you land. Takes 5 minutes. They cover 200+ countries and have served over 10 million users since launching in 2019.
 
-Check that your phone supports eSIM first. Most iPhones from the XS onward do. Some budget Android phones don't.
+Check that your phone supports eSIM first. All iPhones from the XS (2018) onward support eSIM, and iPhone 14+ models sold in the US are eSIM-only (no physical SIM tray). Most mid-range and flagship Android phones from 2020 onward support it too.
 
 Regional plans are usually better value than single-country plans if you're visiting multiple countries. The "Europe" package covers 39 countries and costs less than buying France and Spain separately.
 
