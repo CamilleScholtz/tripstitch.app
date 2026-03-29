@@ -4,6 +4,9 @@
 <meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+{{- if .IsHome }}
+<meta name="apple-itunes-app" content="app-id=6757090571">
+{{- end }}
 <link rel="canonical" href="{{ .Permalink }}">
 <title>{{ .Title }}</title>
 {{ partial "head/favicons.html" . }}

@@ -1,3 +1,21 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Tripstitch",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "{{ "img/tripstitch.webp" | absURL }}"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "support@tripstitch.app",
+    "contactType": "customer support"
+  },
+  "sameAs": []
+}
+</script>
 {{- if eq .Section "blog" }}
 <script type="application/ld+json">
 {
@@ -7,6 +25,7 @@
   "description": "{{ .Params.description }}",
   "url": "{{ .Permalink }}",
   "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ with .Lastmod }}{{ .Format "2006-01-02T15:04:05Z07:00" }}{{ else }}{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}{{ end }}",
   "author": {
     "@type": "Organization",
     "name": "Tripstitch",
@@ -30,16 +49,67 @@
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": "Tripstitch",
-  "description": "{{ .Site.Params.description }}",
+  "alternateName": "Tripstitch AI Trip Planner",
+  "description": "{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}",
   "url": "{{ .Site.BaseURL }}",
   "applicationCategory": "TravelApplication",
-  "operatingSystem": "iOS",
+  "operatingSystem": "iOS 17+",
   "offers": {
     "@type": "Offer",
     "price": "0",
-    "priceCurrency": "USD"
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
   },
-  "image": "{{ "img/tripstitch.webp" | absURL }}"
+  "featureList": "AI itinerary generation, Interactive Apple Maps, Chat with AI travel companion, Restaurant recommendations, Smart packing lists, Phrasebook with pronunciation, Weather forecasts, Plug type and voltage info, Currency and exchange rates, iCloud sync, Offline access, Multi-day trip planning, Personalized travel preferences",
+  "screenshot": "{{ "img/mockup-1.webp" | absURL }}",
+  "image": "{{ "img/tripstitch.webp" | absURL }}",
+  "author": {
+    "@type": "Organization",
+    "name": "Tripstitch",
+    "url": "{{ .Site.BaseURL }}"
+  }
 }
 </script>
+{{- if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Tripstitch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tripstitch is an AI-powered travel itinerary planner for iPhone. It uses an AI travel companion called Mia to generate personalized day-by-day trip plans with activities, restaurants, maps, and local tips."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Tripstitch free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tripstitch is free to download on the App Store. You can create trips and chat with Mia at no cost."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Tripstitch create itineraries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You tell Mia your destination, travel dates, and preferences (pace, budget, food restrictions). She generates a complete day-by-day itinerary with morning, afternoon, and evening activities, all shown on an interactive Apple Maps view."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I edit my itinerary after it's generated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. You can drag and drop activities between days, reorder stops, add or remove places, and chat with Mia to get new suggestions or make changes."
+      }
+    }
+  ]
+}
+</script>
+{{- end }}
 {{- end }}

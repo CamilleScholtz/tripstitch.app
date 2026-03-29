@@ -1,0 +1,6 @@
+@layer components {
+  .feature-table td:first-child {
+    white-space: normal;
+    padding-right: 1rem;
+  }
+}
