@@ -1,0 +1,17 @@
+@layer components {
+  .comparison {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .comparison-table td:first-child {
+    white-space: normal;
+    min-width: 140px;
+  }
+
+  .comparison-table thead th,
+  .comparison-table td {
+    padding: 0.5rem 0.625rem;
+    font-size: 0.8125rem;
+  }
+}

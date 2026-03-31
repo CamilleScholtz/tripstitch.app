@@ -151,93 +151,168 @@
   <p class="trip-styles-footer">You also choose your pace: relaxed, moderate, or packed. Mia adjusts how many activities she plans per day to match.</p>
 </section>
 
-{{/* All Features */}}
-<section class="all-features">
-  <div class="all-features-header">
-    <h2>What Tripstitch can do.</h2>
-    <p>A full-featured travel planner that fits in your pocket.</p>
+{{/* Comparison Table */}}
+<section class="comparison">
+  <div class="comparison-header">
+    <h2>How Tripstitch compares.</h2>
+    <p>Most travel apps help you organize trips you've already planned. Tripstitch plans the trip for you.</p>
   </div>
-  <table class="feature-table">
-    <thead>
-      <tr>
-        <th>Feature</th>
-        <th>Details</th>
-      </tr>
-    </thead>
-    <tbody>
-      {{/* Planning */}}
-      <tr>
-        <td>AI-powered itinerary generation</td>
-        <td>Personalized day-by-day plans built by Mia in seconds</td>
-      </tr>
-      <tr>
-        <td>Real-time chat with Mia</td>
-        <td>Ask for suggestions, swap activities, or get local tips mid-trip</td>
-      </tr>
-      <tr>
-        <td>Personalized travel preferences</td>
-        <td>Walking pace, activity level, dietary needs, and budget range</td>
-      </tr>
-      <tr>
-        <td>Restaurant and food recommendations</td>
-        <td>Local spots matched to your cuisine preferences and budget</td>
-      </tr>
-      <tr>
-        <td>Multi-day trip support</td>
-        <td>Plan weekend getaways or month-long trips with equal detail</td>
-      </tr>
-      <tr>
-        <td>Interactive maps with Apple Maps</td>
-        <td>Every stop pinned on a map with route visualization</td>
-      </tr>
-      {{/* Destination info */}}
-      <tr>
-        <td>Weather forecasts for your trip</td>
-        <td>Daily forecasts and average highs for each destination</td>
-      </tr>
-      <tr>
-        <td>Currency and exchange rates</td>
-        <td>Live rates and local prices for meals, coffee, taxis, and more</td>
-      </tr>
-      <tr>
-        <td>Phrasebook with local phrases</td>
-        <td>Useful phrases in the local language with pronunciation guides</td>
-      </tr>
-      <tr>
-        <td>Plug type and voltage info</td>
-        <td>Know if you need an adapter before you leave</td>
-      </tr>
-      <tr>
-        <td>Smart packing lists</td>
-        <td>Auto-generated based on your destination, weather, and trip length</td>
-      </tr>
-      <tr>
-        <td>AI cost estimates for every activity</td>
-        <td>See estimated costs per activity and daily totals in local currency</td>
-      </tr>
-      <tr>
-        <td>Daily budget tracking</td>
-        <td>Set a per-day budget and see how your itinerary stacks up with a visual breakdown</td>
-      </tr>
-      <tr>
-        <td>Tipping guidance by country</td>
-        <td>Know when and how much to tip at restaurants, cafes, taxis, and hotels</td>
-      </tr>
-      {{/* Platform */}}
-      <tr>
-        <td>iCloud sync across devices</td>
-        <td>Your trips stay in sync on every iPhone you own</td>
-      </tr>
-      <tr>
-        <td>Offline access to your itinerary</td>
-        <td>View your plans without an internet connection</td>
-      </tr>
-      <tr>
-        <td>Privacy-first design</td>
-        <td>Your travel data stays on your device and in your iCloud account</td>
-      </tr>
-    </tbody>
-  </table>
+  <div class="comparison-table-wrapper">
+    <table class="comparison-table">
+      <thead>
+        <tr>
+          <th>Feature</th>
+          <th class="highlight">Tripstitch</th>
+          <th>TripIt</th>
+          <th>Wanderlog</th>
+          <th>Tripsy</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>AI-generated itineraries</td>
+          <td class="highlight"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+        </tr>
+        <tr>
+          <td>AI chat for live recommendations</td>
+          <td class="highlight"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+        </tr>
+        <tr>
+          <td>Personalized travel preferences</td>
+          <td class="highlight"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td><span class="partial" aria-label="Partial">~</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+        </tr>
+        <tr>
+          <td>Day-by-day activity planning</td>
+          <td class="highlight"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+        </tr>
+        <tr>
+          <td>Interactive map with all stops</td>
+          <td class="highlight"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+        </tr>
+        <tr>
+          <td>Restaurant recommendations</td>
+          <td class="highlight"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+        </tr>
+        <tr>
+          <td>Budget tracking and cost estimates</td>
+          <td class="highlight"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="partial" aria-label="Partial">~</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="partial" aria-label="Partial">~</span></td>
+        </tr>
+        <tr>
+          <td>Tipping guidance by country</td>
+          <td class="highlight"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+        </tr>
+        <tr>
+          <td>Weather forecasts</td>
+          <td class="highlight"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+        </tr>
+        <tr>
+          <td>Currency and exchange rates</td>
+          <td class="highlight"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+        </tr>
+        <tr>
+          <td>Phrasebook with local phrases</td>
+          <td class="highlight"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+        </tr>
+        <tr>
+          <td>Plug type and voltage info</td>
+          <td class="highlight"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+        </tr>
+        <tr>
+          <td>Smart packing lists</td>
+          <td class="highlight"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td><span class="partial" aria-label="Partial">~</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+        </tr>
+        <tr>
+          <td>Auto-import flights and hotels</td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td class="highlight-other"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+          <td class="highlight-other"><span class="check" aria-label="Yes">✓</span></td>
+        </tr>
+        <tr>
+          <td>Collaborative trip editing</td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td><span class="partial" aria-label="Partial">~</span></td>
+          <td class="highlight-other"><span class="check" aria-label="Yes">✓</span></td>
+          <td class="highlight-other"><span class="check" aria-label="Yes">✓</span></td>
+        </tr>
+        <tr>
+          <td>Offline access</td>
+          <td class="highlight"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="check" aria-label="Yes">✓</span></td>
+        </tr>
+        <tr>
+          <td>iCloud sync across devices</td>
+          <td class="highlight"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td class="highlight-other"><span class="check" aria-label="Yes">✓</span></td>
+        </tr>
+        <tr>
+          <td>Privacy-first (no account required)</td>
+          <td class="highlight"><span class="check" aria-label="Yes">✓</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td><span class="cross" aria-label="No">✗</span></td>
+          <td><span class="partial" aria-label="Partial">~</span></td>
+        </tr>
+        <tr>
+          <td>Pricing</td>
+          <td class="highlight">From $3.33/mo</td>
+          <td>$4.08/mo</td>
+          <td>$3.33/mo</td>
+          <td>$5/mo</td>
+        </tr>
+        <tr>
+          <td>Platform</td>
+          <td class="highlight">iPhone</td>
+          <td>iOS, Android, Web</td>
+          <td>iOS, Android, Web</td>
+          <td>iPhone, iPad, Mac</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="comparison-footnote">Comparison based on publicly available features as of early 2026. "~" means partial or limited support.</p>
 </section>
 
 {{/* Download CTA */}}
