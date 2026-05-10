@@ -1,5 +1,6 @@
 baseURL = "https://tripstitch.app/"
-languageCode = "en"
+[languages.en]
+locale = "en"
 title = "Tripstitch — AI Travel Itinerary Planner for iPhone"
 
 disableKinds = ["taxonomy", "term"]
