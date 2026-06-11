@@ -1,0 +1,15 @@
+@layer components {
+  .step {
+    gap: 1rem;
+  }
+
+  .step-number {
+    width: 3.25rem;
+    font-size: 2.5rem;
+  }
+
+  .step:not(:last-child)::before {
+    left: calc(1.625rem - 1px);
+    top: 3rem;
+  }
+}

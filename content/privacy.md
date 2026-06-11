@@ -3,7 +3,7 @@ title: "Privacy Policy"
 description: "Tripstitch Privacy Policy — learn how the app handles your data, what we collect, and your choices regarding your information."
 ---
 
-**Last Updated: March 9, 2026**
+**Last Updated: June 11, 2026**
 
 Tripstitch ("we", "our", or "the app") is an AI-powered travel itinerary app for iOS. This Privacy Policy explains what data we collect, how we use it, and your choices regarding your information.
 
@@ -25,7 +25,7 @@ Conversations with our AI assistant ("Mia") are stored on your device and synced
 
 ### Location Data
 
-If you grant location permission, we use your approximate location to suggest nearby places, find airports, and provide context to the AI assistant. We request location at hundred-meter accuracy. You can revoke this at any time in iOS Settings.
+If you grant location permission, we use your approximate location to show your position on the map, suggest nearby places, find airports, improve map search results, and provide context to the AI assistant. To do this, your approximate location and search queries may be sent directly to our maps provider, Mapbox (see Third-Party Services). We request location at hundred-meter accuracy. You can revoke this at any time in iOS Settings.
 
 ### Subscription Data
 
@@ -36,6 +36,7 @@ In-app purchases are handled entirely by Apple. We validate your subscription st
 - **Generate itineraries**: Your trip details and traveler preferences are sent to our AI service to create personalized travel plans.
 - **Power the AI assistant**: Chat messages, trip context, and (optionally) your location are sent to our AI service to answer questions and suggest changes.
 - **Provide place details**: Place names and coordinates are sent to a place data provider to retrieve ratings, reviews, hours, and photos.
+- **Show maps and search**: Your approximate location, the map area you're viewing, and your search queries are sent to our maps provider to render maps and find nearby places.
 - **Send notifications**: Your device token is used to notify you when background tasks complete.
 - **Sync your data**: All trip data syncs across your devices via iCloud.
 
@@ -43,19 +44,25 @@ In-app purchases are handled entirely by Apple. We validate your subscription st
 
 We use the following third-party services. Data is sent through our backend server (acting as a proxy), except where noted.
 
-| Service | Data Shared | Purpose |
-|---------|-------------|---------|
-| **Anthropic (Claude AI)** | Trip details, traveler profiles, itineraries, chat messages, location (if granted) | AI itinerary generation and chat assistant |
-| **Google Places API** | Place names, coordinates | Place search, ratings, reviews, photos, and hours |
-| **Apple Maps Server API** | Coordinates, search categories | Place search during AI itinerary generation |
-| **Open Exchange Rates API** | Currency codes | Currency exchange rate lookup |
-| **DiceBear** | Traveler name (as avatar seed) | Generating traveler avatar images |
+| Service | Data Shared | Purpose | Sent |
+|---------|-------------|---------|------|
+| **Anthropic (Claude AI)** | Trip details, traveler profiles, itineraries, chat messages, location (if granted) | AI itinerary generation and chat assistant | Our server (proxy) |
+| **Google Places** | Place names, coordinates | Ratings, reviews, photos, and hours | Our server (proxy) |
+| **Apple Maps Server API** | Coordinates, search categories | Place search and travel-time estimates during itinerary generation | Our server (proxy) |
+| **Mapbox** | Approximate location, map interactions, search queries | Map display, place search, and geocoding | Directly from the app |
+| **ExchangeRate-API** | Home currency code | Currency exchange rate lookup | Directly from the app |
 
-We also use standard Apple platform services (iCloud, Maps, Weather, Notifications, StoreKit) as part of normal iOS functionality.
+We also use standard Apple platform services (iCloud, MapKit, WeatherKit, Notifications, StoreKit, App Attest) as part of normal iOS functionality. Traveler avatars are generated on your device and are not sent anywhere.
 
 ### AI Data Processing
 
 When you generate an itinerary or chat with Mia, your trip data — including traveler names, preferences, saved locations, and itinerary details — is sent to Anthropic's Claude API. Anthropic's data practices are governed by their [usage policy](https://www.anthropic.com/legal/aup). We store AI requests and responses on our server to support the generation process.
+
+### Maps & Location Providers
+
+Maps, the spinning globe, and place search are powered by Mapbox. When you view a map or search for a place, your approximate location, the map area you're viewing, and your search queries are sent directly from the app to Mapbox. Mapbox may also collect anonymized usage telemetry to operate and improve its mapping services, governed by [Mapbox's privacy policy](https://www.mapbox.com/legal/privacy). We do not use this telemetry ourselves.
+
+The app also uses Apple's MapKit on your device for search suggestions and directions, and fetches currency rates directly from ExchangeRate-API using only your home currency code.
 
 ## 4. Data Storage & Retention
 
@@ -79,7 +86,7 @@ All app data syncs to your iCloud account, encrypted and accessible only to you.
 - Email addresses, phone numbers, or passwords
 - Analytics, advertising identifiers, or tracking data
 
-We do not use any third-party analytics, crash reporting, or advertising SDKs.
+We do not use any third-party analytics, crash reporting, or advertising SDKs. Our maps provider, Mapbox, may collect anonymized telemetry to operate its mapping services (see Maps & Location Providers above); this is not used by us for analytics or advertising.
 
 ## 6. Data Security
 

@@ -1,5 +1,6 @@
 .features-grid {
   grid-template-columns: 1fr;
+  gap: 1rem;
 }
 
 .features-row {
@@ -20,20 +21,4 @@
 
 .steps-mockup img {
   width: min(380px, 90vw);
-}
-
-.features-grid {
-  gap: 0.5rem;
-}
-
-.feature-card {
-  padding: 0.75rem 0;
-}
-
-.feature-card:nth-child(odd) {
-  text-align: left;
-}
-
-.feature-card:nth-child(even) {
-  text-align: right;
 }

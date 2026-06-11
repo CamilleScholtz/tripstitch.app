@@ -8,6 +8,9 @@ disableKinds = ["taxonomy", "term"]
 [params]
   description = "Tripstitch is an AI travel itinerary planner for iPhone. Tell Mia your destination and she builds personalized day-by-day plans with activities, restaurants, maps, and local tips. Free on the App Store."
   appStoreURL = "https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571"
+  # Public Mapbox access token (pk.…) for the spinning globe on the homepage.
+  # Same token as the iOS app (MBXAccessToken in Info.plist).
+  mapboxToken = "pk.eyJ1IjoiY2FtaWxsZXNjaG9sdHoyIiwiYSI6ImNtcGUyOGdtMjBod2oycXIwd2g0eXozZ3oifQ.f99S4XxYGBFtFkz7rJI18Q"
 
 [markup]
   [markup.highlight]
