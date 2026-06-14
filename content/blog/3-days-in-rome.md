@@ -119,13 +119,13 @@ Rome's aperitivo culture is an institution. Order a Spritz or Negroni (€8–12
 
 - **Budget:** €60–100/day for food, transit, and entry fees. Hotels: €70 (budget) to €250+ (boutique in Centro Storico).
 - **Best season:** April–May, September–October. August is hot, many locals leave, and some restaurants close for ferragosto (August holiday).
-- **Getting around:** Walking + Metro (€1.50/ride, €7 for a 24-hour pass). The Metro is limited — only two useful lines — so you'll walk a lot. Comfortable shoes are essential on cobblestones.
-- **Visa:** Schengen zone — 90 days visa-free for most non-EU visitors.
+- **Getting around:** Walking + Metro (€1.50/ride, €7 for a 24-hour pass). The Metro is limited to only two useful lines, so you'll walk a lot. Comfortable shoes are essential on cobblestones.
+- **Visa:** Schengen zone, 90 days visa-free for most non-EU visitors.
 - **Plugs:** Type C, F, and L (European two-pin and Italian three-pin). Voltage is 230V. Most European adapters work; US/UK travelers need one.
 - **Language:** Italian. English is understood in tourist areas. Learn "per favore" (please), "grazie" (thanks), and "il conto" (the bill).
-- **Tipping:** Not required. Some restaurants add a coperto (cover charge, €1–3 per person) — this is normal, not a scam. Leave small change if service was great.
+- **Tipping:** Not required. Some restaurants add a coperto (cover charge, €1–3 per person); this is normal, not a scam. Leave small change if service was great.
 - **Water:** Tap water is safe. Use the nasoni (public fountains) everywhere.
 
 ---
 
-Want to customize this itinerary for your trip? [Tripstitch](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571) generates personalized Rome plans with real places, maps, and walking routes — plan your trip in seconds.
+Want to customize this itinerary for your trip? [Tripstitch](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571) generates personalized Rome plans with real places, maps, and walking routes. Plan your trip in seconds.

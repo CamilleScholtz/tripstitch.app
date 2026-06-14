@@ -46,7 +46,7 @@ Walk west from Times Square to **Hell's Kitchen** (9th and 10th Avenues in the 4
 
 If you're seeing a Broadway show, the TKTS booth in Times Square sells same-day discounted tickets (20–50% off). Line up around 2–3 PM for evening shows.
 
-**Where to eat:** **Los Tacos No. 1** in Chelsea Market or their Times Square location. The adobada and nopal tacos are perfect and cost $4–5 each. For a sit-down dinner, **Thai Diner** on a nearby block for elevated Thai comfort food. $15–25 per dish.
+**Where to eat:** **Los Tacos No. 1** in Chelsea Market or their Times Square location. The adobada and nopal tacos are perfect and cost $4–5 each. For a sit-down dinner, **Thai Diner** on a nearby block for upscale Thai comfort food. $15–25 per dish.
 
 **Pro tip:** Get an OMNY-enabled MetroCard or just tap your phone/credit card at the turnstile. It caps at $34/week (after 12 rides), so unlimited swipes are automatic. The subway runs 24/7 and is the fastest way to move between neighborhoods.
 
