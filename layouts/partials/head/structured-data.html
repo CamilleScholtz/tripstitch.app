@@ -13,7 +13,9 @@
     "email": "support@tripstitch.app",
     "contactType": "customer support"
   },
-  "sameAs": []
+  "sameAs": [
+    "{{ .Site.Params.instagramURL }}"
+  ]
 }
 </script>
 {{- if eq .Section "blog" }}
@@ -29,7 +31,10 @@
   "author": {
     "@type": "Organization",
     "name": "Tripstitch",
-    "url": "{{ .Site.BaseURL }}"
+    "url": "{{ .Site.BaseURL }}",
+    "sameAs": [
+      "{{ .Site.Params.instagramURL }}"
+    ]
   },
   "publisher": {
     "@type": "Organization",
@@ -38,7 +43,10 @@
     "logo": {
       "@type": "ImageObject",
       "url": "{{ "img/tripstitch.webp" | absURL }}"
-    }
+    },
+    "sameAs": [
+      "{{ .Site.Params.instagramURL }}"
+    ]
   },
   "image": "{{ partial "head/og-image.html" . }}"
 }
@@ -66,7 +74,10 @@
   "author": {
     "@type": "Organization",
     "name": "Tripstitch",
-    "url": "{{ .Site.BaseURL }}"
+    "url": "{{ .Site.BaseURL }}",
+    "sameAs": [
+      "{{ .Site.Params.instagramURL }}"
+    ]
   }
 }
 </script>
