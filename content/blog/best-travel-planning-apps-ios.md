@@ -5,7 +5,7 @@ description: "The best iOS travel planning apps for building itineraries, organi
 category: guide
 ---
 
-Planning a trip on your phone should be simple. Open an app, pick your dates, get a plan. With over 1.8 billion international tourist arrivals in 2024 (UNWTO), and 85% of travelers using a smartphone to plan or manage their trips (Google Travel Insights), the demand for good planning tools has never been higher. In practice, most travel apps are either glorified note-taking tools or booking engines that don't care what you do after you land. Here are the ones actually worth downloading.
+Planning a trip on your phone should be simple. Open an app, pick your dates, get a plan. There were over 1.8 billion international tourist arrivals in 2024 (UNWTO), and 85% of travelers use a smartphone to plan or manage their trips (Google Travel Insights). In practice, most travel apps are either glorified note-taking tools or booking engines that don't care what you do after you land. Here are the ones actually worth downloading.
 
 ## What makes a good travel planning app
 
@@ -57,7 +57,7 @@ The biggest gap: it doesn't help you *decide* what to do. You still need to do a
 
 TripIt is a travel organizer, not a planner. Forward your confirmation emails and it builds a master timeline of your flights, hotels, car rentals, and restaurant reservations. It's great at keeping your logistics in one place.
 
-What it doesn't do: help you figure out what to do between your hotel check-in and your dinner reservation. There's no itinerary building, no map view for activities, no place discovery. Think of it as the operations layer of your trip, not the fun part.
+What it doesn't do: help you figure out what to do between your hotel check-in and your dinner reservation. There's no itinerary building and no map view for activities. Think of it as the operations layer of your trip, not the fun part.
 
 The free version handles the basics. TripIt Pro adds real-time flight alerts and seat tracking, which is worth it if you fly enough.
 
@@ -79,7 +79,7 @@ The planning features are more basic than Wanderlog. You're dragging pins around
 
 Not an app, but worth mentioning. Apple Maps has editorial guides from publishers like Lonely Planet, TimeOut, and local bloggers. Search for a city, scroll down, and you'll find curated lists of restaurants, bars, and things to do.
 
-It's not planning — there's no day-by-day structure. But when you need a quick restaurant recommendation in a neighborhood you're already standing in, the guides are surprisingly useful.
+It's not planning. There's no day-by-day structure. But when you need a quick restaurant recommendation in a neighborhood you're already standing in, the guides are surprisingly useful.
 
 ---
 

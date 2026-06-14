@@ -24,35 +24,7 @@ This means:
 
 ## Blog Writing Style
 
-Read the existing posts before writing new ones — especially `building-ai-travel-app-that-doesnt-hallucinate.md` for tone.
-
-### Voice
-
-- **Specific and opinionated.** State preferences, give real recommendations, include actual prices and times.
-- **Conversational but not chatty.** Write like you're telling a friend who asked, not like you're writing marketing copy.
-- **Honest.** Mention downsides, caveats, and tradeoffs. "It's touristy, but the view is worth it" is better than pretending everything is perfect.
-- **Grounded in experience.** Write as someone who has actually been there or actually built the thing. Never sound like you're summarizing someone else's blog.
-
-### Banned patterns
-
-These are markers of AI-generated content. Never use them:
-
-- **Em dashes (—).** Use commas, periods, or parentheses instead. Rewrite the sentence if needed.
-- **"Discover", "unlock", "elevate", "seamless", "revolutionize", "cutting-edge", "game-changing", "delve".**
-- **"Hidden gem", "off the beaten path", "Instagram-worthy", "bucket list"** — unless used with obvious irony.
-- **"Let's dive in", "without further ado", "in this article we'll explore"** — just start.
-- **"Whether you're a [X] or a [Y]"** — the false-inclusive opener.
-- **"In today's [noun]"** — "In today's world", "In today's digital landscape", etc.
-- **Stacked superlatives** — "an absolutely incredible, truly stunning experience."
-- **Vague filler** — "experience the magic of", "immerse yourself in the vibrant culture of."
-
-### What good posts include
-
-- **Real numbers:** prices ("€10–18"), distances ("15 minutes from the old city"), visitor counts, historical dates.
-- **Practical warnings:** "Pickpockets are a real issue on Las Ramblas", "Bali belly is real."
-- **Local context:** "Spaniards eat late. Restaurants fill up at 9–10 PM."
-- **Pro tips** scattered naturally, not in a "TOP 10 TIPS" list.
-- **Sources and citations** where relevant — studies, surveys, official statistics with years.
+The full writing rules (voice, the em dash ban, banned marketing/AI tells, what every post must include, and front matter) live in the **`article-writing` skill** (`.claude/skills/article-writing/`). Invoke it whenever drafting, rewriting, or reviewing any post, and run its `scripts/check.sh` on the file before finishing. Read a couple of existing posts for tone first, especially `building-ai-travel-app-that-doesnt-hallucinate.md`.
 
 ## Content Structure
 

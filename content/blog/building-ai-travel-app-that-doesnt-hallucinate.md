@@ -1,7 +1,7 @@
 ---
 title: "Building an AI Travel App That Doesn't Hallucinate"
 date: 2026-03-14
-description: "How I built Tripstitch — the technical decisions behind AI-powered itinerary planning, from structured generation to Apple Maps grounding."
+description: "How I built Tripstitch: the technical decisions behind AI-powered itinerary planning, from structured generation to Apple Maps grounding."
 category: development
 image: /img/blog/building-ai-travel-app.webp
 ---
@@ -104,7 +104,7 @@ SwiftData with CloudKit was the hardest part of the project, and not for interes
 ```swift
 @Model
 final class ChatMessage {
-    /// Stored as raw string — CloudKit can't round-trip enum composite attributes
+    /// Stored as raw string. CloudKit can't round-trip enum composite attributes
     var roleRawValue: String = ChatRole.user.rawValue
 
     @Transient

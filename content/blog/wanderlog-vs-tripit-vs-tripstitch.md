@@ -65,7 +65,7 @@ You can edit anything through chat. "Swap the museum for something outdoors." "A
 
 The tradeoffs are real. Tripstitch is iPhone only, which is a non-starter if you're on Android or want a web view. There's no auto-import for flights and hotels, so you log those manually or in another app. There's no real-time collaboration yet, which means it's better for solo trips or one person who's the designated planner.
 
-**Pricing.** Free tier lets you generate a full trip and edit it. Subscription starts at $3.33/month and removes generation limits, adds advanced features, and unlocks Pro chat.
+**Pricing.** Free tier lets you generate a full trip and edit it. Subscription starts at $3.33/month and removes generation limits, adds advanced features, and opens up Pro chat.
 
 **What it's good at.** Going from blank slate to finished plan fast. Restaurant and activity discovery. Mid-trip adjustments via chat. Native iPhone polish (iCloud sync, home-screen widget, calendar integration).
 

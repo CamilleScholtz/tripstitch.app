@@ -33,7 +33,7 @@ AI travel tools sit in the middle. They handle the part that takes the most time
 
 Ask ChatGPT for a 5-day Rome itinerary and you'll get a reasonable framework in 30 seconds. The days will be logically grouped by neighborhood. The pacing will make sense. It's a solid starting point.
 
-The catch, as anyone who's tried this knows: the specific recommendations are unreliable. Restaurant names get invented. Opening hours are wrong. The "hidden gem" it suggests might not exist. You still need to verify everything, which eats into the time you saved.
+The catch, as anyone who's tried this knows: the specific recommendations are unreliable. Restaurant names get invented. Opening hours are wrong. The little cafe it swears by might not exist. You still need to verify everything, which eats into the time you saved.
 
 Newer AI tools try to solve this by grounding suggestions in real data. [Tripstitch](https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571), for example, runs every recommendation through Apple Maps, so the restaurants, museums, and cafes in your itinerary are real places with real coordinates instead of hallucinated names. You get a full plan on a map that you can actually follow, then adjust it through chat if you want to swap things around.
 

@@ -39,7 +39,7 @@ If you're traveling outside the US, this is how most of the world communicates. 
 
 ### Wise (formerly TransferWise)
 
-The Wise debit card gives you the real mid-market exchange rate with a small transparent fee (typically 0.35–1% depending on the currency pair). No "3% foreign transaction fee" surprise on your statement — for context, most banks charge 2.5–3% on international transactions, meaning Wise saves roughly $20–30 per $1,000 spent abroad. You can hold multiple currencies and convert between them at market rate. It's consistently cheaper than using your regular bank card abroad.
+The Wise debit card gives you the real mid-market exchange rate with a small transparent fee (typically 0.35–1% depending on the currency pair). No "3% foreign transaction fee" surprise on your statement. For context, most banks charge 2.5–3% on international transactions, so Wise saves roughly $20–30 per $1,000 spent abroad. You can hold multiple currencies and convert between them at market rate. It's consistently cheaper than using your regular bank card abroad.
 
 Order the physical card a couple weeks before your trip. Add it to Apple Pay so you have a backup if the card gets lost.
 

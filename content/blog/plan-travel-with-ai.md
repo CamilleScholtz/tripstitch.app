@@ -23,7 +23,7 @@ The simplest way to use AI for travel planning: open ChatGPT (or Claude, or Gemi
 
 This works well as a starting point. The day-by-day structure will be logical. The major sights will be there. The pacing will be sensible.
 
-Then verify everything. Every restaurant name, every "hidden gem," every museum it mentions. Search each one on Google Maps. You'll find that some places don't exist, some have moved, and some are closed on the day it scheduled them. Budget 30 minutes to fact-check a 5-day itinerary. It's faster than building one from scratch, but it's not the zero-effort experience the AI hype suggests.
+Then verify everything. Every restaurant name, every special spot, every museum it mentions. Search each one on Google Maps. You'll find that some places don't exist, some have moved, and some are closed on the day it scheduled them. Budget 30 minutes to fact-check a 5-day itinerary. It's faster than building one from scratch, but it's not the zero-effort experience the AI hype suggests.
 
 **Tips for better ChatGPT itineraries:**
 
@@ -45,7 +45,7 @@ This is where AI travel planning is heading. The creative work (pacing, theming,
 
 ## How to verify an AI travel plan
 
-Whether you're using a chatbot or an app, here's how to sanity-check what you get:
+Chatbot or app, here's how to sanity-check what you get:
 
 **1. Map it out.** Drop every location into Google Maps or Apple Maps. If two consecutive activities are 45 minutes apart by transit, the plan needs adjusting. Good AI tools do this automatically. Chatbots don't.
 
@@ -61,7 +61,7 @@ Whether you're using a chatbot or an app, here's how to sanity-check what you ge
 
 Here's a practical workflow that combines AI speed with human judgment:
 
-**Step 1: Generate a skeleton.** Use AI (chatbot or app) to get a day-by-day framework. Don't overthink the prompt — just destination, dates, interests, pace preference.
+**Step 1: Generate a skeleton.** Use AI (chatbot or app) to get a day-by-day framework. Don't overthink the prompt. Just give it destination, dates, interests, pace preference.
 
 **Step 2: Gut-check the structure.** Does the day-by-day flow make geographic sense? Are mornings used for popular spots (fewer crowds) and evenings for food neighborhoods? Rearrange if needed.
 
@@ -73,8 +73,8 @@ Here's a practical workflow that combines AI speed with human judgment:
 
 ## So is it worth it?
 
-AI won't plan your entire trip perfectly. Not yet. But it gets you 70% of the way there in 5 minutes instead of 5 hours. A 2024 Booking.com survey found that travelers spend an average of 5 hours researching and planning a single trip — time that AI tools can cut to under 30 minutes. The remaining 30% (verifying places, swapping in better picks, adding the details that make a trip yours) is still on you.
+AI won't plan your entire trip perfectly. Not yet. But it gets you 70% of the way there in 5 minutes instead of 5 hours. A 2024 Booking.com survey found that travelers spend an average of 5 hours researching and planning a single trip, time that AI tools can cut to under 30 minutes. The remaining 30% (verifying places, swapping in better picks, adding the details that make a trip yours) is still on you.
 
-Use AI for structure and discovery. Do your own research for the specifics. Let it handle "what order should I see things in" and "what neighborhoods are near each other." Pick your own restaurants.
+Use AI for structure and a first list of options. Do your own research for the specifics. Let it handle "what order should I see things in" and "what neighborhoods are near each other." Pick your own restaurants.
 
 Or use a tool that grounds its suggestions in real data, so you can skip most of the verification step. Either way, you don't need to spend a full weekend in TripAdvisor tabs anymore. You just need to be a smart editor, not a blank-page planner.
