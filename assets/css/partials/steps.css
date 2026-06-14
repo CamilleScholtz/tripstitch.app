@@ -25,26 +25,43 @@
   }
 
   .step {
+    position: relative;
     display: flex;
     gap: 1.5rem;
     align-items: flex-start;
     counter-increment: step;
   }
 
+  /* Big ghost numbers with a thread connecting the steps */
   .step-number {
     flex-shrink: 0;
-    width: 44px;
-    height: 44px;
-    border-radius: 50%;
-    background: var(--accent-color);
-    background: var(--accent-color-fallback);
-    background: var(--accent-color);
-    color: #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-weight: 700;
-    font-size: 1.0625rem;
+    width: 4.25rem;
+    font-size: 3.25rem;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: -0.04em;
+    text-align: center;
+    color: var(--accent-color-fallback);
+    color: var(--accent-color);
+  }
+
+  .step:not(:last-child)::before {
+    content: "";
+    position: absolute;
+    left: calc(2.125rem - 1px);
+    top: 3.75rem;
+    bottom: -1.75rem;
+    width: 2px;
+    border-radius: 1px;
+    background: linear-gradient(
+      to bottom,
+      color-mix(in srgb, var(--accent-color-fallback) 40%, transparent),
+      color-mix(in srgb, var(--accent-color-fallback) 10%, transparent)
+    );
+  }
+
+  .step-content {
+    padding-top: 0.375rem;
   }
 
   .step-content h3 {

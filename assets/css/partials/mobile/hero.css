@@ -1,0 +1,21 @@
+@layer components {
+  .hero {
+    padding-top: 5.5rem;
+  }
+
+  .hero-stats li {
+    padding: 0 1rem;
+  }
+
+  .hero-stats li:first-child {
+    padding-left: 0;
+  }
+
+  .hero-stats strong {
+    font-size: 1rem;
+  }
+
+  .hero-stats span {
+    font-size: 0.75rem;
+  }
+}

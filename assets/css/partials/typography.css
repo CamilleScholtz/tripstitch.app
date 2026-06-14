@@ -23,4 +23,10 @@
     font-size: 1.0625rem;
     line-height: 1.6;
   }
+
+  /* Accented word inside a heading */
+  .accent-text {
+    color: var(--accent-color-fallback);
+    color: var(--accent-color);
+  }
 }

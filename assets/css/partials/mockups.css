@@ -28,7 +28,7 @@
   }
 
   .steps-mockup img {
-    width: clamp(500px, 75vw, 1100px);
+    width: clamp(260px, 30vw, 400px);
     height: auto;
     filter:
       drop-shadow(0 4px 16px rgba(0, 0, 0, 0.08))
