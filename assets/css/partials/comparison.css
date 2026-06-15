@@ -43,7 +43,7 @@
     border-bottom: 2px solid var(--border-color);
     position: sticky;
     top: 0;
-    background: var(--surface-secondary);
+    background: transparent;
   }
 
   .comparison-table thead th:first-child {

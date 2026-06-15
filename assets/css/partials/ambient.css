@@ -4,7 +4,10 @@
     top: 100vh;
     left: 0;
     right: 0;
-    height: 200vh;
+    /* Stretch to the bottom of the page so every glass section below the hero
+       has colour behind it to refract (was a fixed 200vh, which left the lower
+       sections over flat background and the glass there looking dull). */
+    bottom: 0;
     opacity: var(--gradient-opacity);
     pointer-events: none;
     z-index: -1;
@@ -26,7 +29,7 @@
     --orb-opacity: 30%;
     width: min(1800px, 200vw);
     height: min(1800px, 200vw);
-    top: 5%;
+    top: 3%;
     right: -25%;
     filter: hue-rotate(14deg) saturate(0.9);
   }
@@ -35,7 +38,7 @@
     --orb-opacity: 25%;
     width: min(1500px, 170vw);
     height: min(1500px, 170vw);
-    top: 35%;
+    top: 21%;
     left: -20%;
     filter: hue-rotate(-8deg) saturate(1.1);
   }
@@ -44,7 +47,7 @@
     --orb-opacity: 35%;
     width: min(1900px, 210vw);
     height: min(1900px, 210vw);
-    top: 45%;
+    top: 39%;
     right: -15%;
     filter: hue-rotate(6deg);
   }
@@ -53,7 +56,7 @@
     --orb-opacity: 20%;
     width: min(1600px, 180vw);
     height: min(1600px, 180vw);
-    top: 65%;
+    top: 57%;
     left: -30%;
     filter: hue-rotate(-14deg) saturate(1.05);
   }
@@ -62,8 +65,17 @@
     --orb-opacity: 28%;
     width: min(1700px, 190vw);
     height: min(1700px, 190vw);
-    top: 80%;
+    top: 74%;
     right: -20%;
     filter: hue-rotate(10deg) saturate(0.95);
+  }
+
+  .ambient-orbs .orb:nth-child(6) {
+    --orb-opacity: 26%;
+    width: min(1700px, 190vw);
+    height: min(1700px, 190vw);
+    top: 90%;
+    left: -24%;
+    filter: hue-rotate(-6deg) saturate(1.05);
   }
 }

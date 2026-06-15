@@ -5,12 +5,20 @@
   <filter id="liquid-glass" x="-10%" y="-10%" width="120%" height="120%" color-interpolation-filters="sRGB">
     <feTurbulence type="fractalNoise" baseFrequency="0.012 0.02" numOctaves="2" seed="7" result="noise"/>
     <feGaussianBlur in="noise" stdDeviation="2.5" result="map"/>
-    <feDisplacementMap in="SourceGraphic" in2="map" scale="60" xChannelSelector="R" yChannelSelector="G"/>
+    <feDisplacementMap in="SourceGraphic" in2="map" scale="32" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  {{/* Gentler variant for the hero "Recently created trips" pill, which sits on
+       a vivid backdrop where the full-strength lens reads as too much. */}}
+  <filter id="liquid-glass-soft" x="-10%" y="-10%" width="120%" height="120%" color-interpolation-filters="sRGB">
+    <feTurbulence type="fractalNoise" baseFrequency="0.012 0.02" numOctaves="2" seed="7" result="noise"/>
+    <feGaussianBlur in="noise" stdDeviation="2.5" result="map"/>
+    <feDisplacementMap in="SourceGraphic" in2="map" scale="12" xChannelSelector="R" yChannelSelector="G"/>
   </filter>
 </svg>
 
-{{/* Ambient orbs scattered below hero */}}
+{{/* Ambient orbs scattered below hero — colour for the glass surfaces to refract */}}
 <div class="ambient-orbs" aria-hidden="true">
+  <div class="orb"></div>
   <div class="orb"></div>
   <div class="orb"></div>
   <div class="orb"></div>
@@ -18,18 +26,23 @@
   <div class="orb"></div>
 </div>
 
-{{/* Trip essentials */}}
+{{/* Trip essentials — single-line marquee; the list is duplicated (second copy
+     hidden from a11y) so the track can loop seamlessly at -50% */}}
 <section class="essentials" aria-label="Trip essentials included in Tripstitch">
   <p>Know before you go</p>
-  <ul class="essentials-pills">
-    <li>🌤️ Weather forecasts</li>
-    <li>💱 Currency rates</li>
-    <li>🕐 Time zones</li>
-    <li>🧳 Packing lists</li>
-    <li>🗣️ Phrasebook</li>
-    <li>💡 Tipping guide</li>
-    <li>🔌 Plug types</li>
-  </ul>
+  <div class="essentials-marquee">
+    <ul class="essentials-pills">
+      {{ range $i := seq 2 }}
+      <li{{ if eq $i 2 }} aria-hidden="true"{{ end }}>🌤️ Weather forecasts</li>
+      <li{{ if eq $i 2 }} aria-hidden="true"{{ end }}>💱 Currency rates</li>
+      <li{{ if eq $i 2 }} aria-hidden="true"{{ end }}>🕐 Time zones</li>
+      <li{{ if eq $i 2 }} aria-hidden="true"{{ end }}>🧳 Packing lists</li>
+      <li{{ if eq $i 2 }} aria-hidden="true"{{ end }}>🗣️ Phrasebook</li>
+      <li{{ if eq $i 2 }} aria-hidden="true"{{ end }}>💡 Tipping guide</li>
+      <li{{ if eq $i 2 }} aria-hidden="true"{{ end }}>🔌 Plug types</li>
+      {{ end }}
+    </ul>
+  </div>
 </section>
 
 {{/* Features */}}
@@ -149,53 +162,6 @@
     </div>
   </div>
   <p class="trip-styles-footer">You also choose your pace: relaxed, moderate, or packed. Mia adjusts how many activities she plans per day to match.</p>
-</section>
-
-{{/* Itinerary guides: internal links to the blog's city guides */}}
-<section class="itineraries">
-  <div class="itineraries-header" data-reveal>
-    <h2>Need a head start? <span class="accent-text">Steal an itinerary</span>.</h2>
-    <p>Day-by-day city guides with real prices, transit tips, and restaurant picks. Read one, then let Mia build yours.</p>
-  </div>
-  <div class="itineraries-grid">
-    <a class="itinerary-card" href="/blog/3-days-in-tokyo/" data-reveal>
-      <span class="itinerary-flag">🇯🇵</span>
-      <h3>Tokyo</h3>
-      <p class="itinerary-days">3 days</p>
-      <p>Shibuya, Shinjuku, Asakusa, and transit done right.</p>
-    </a>
-    <a class="itinerary-card" href="/blog/5-days-in-paris/" data-reveal style="--reveal-delay: 0.08s">
-      <span class="itinerary-flag">🇫🇷</span>
-      <h3>Paris</h3>
-      <p class="itinerary-days">5 days</p>
-      <p>The classics, quieter neighborhoods, and a Versailles day trip.</p>
-    </a>
-    <a class="itinerary-card" href="/blog/3-days-in-barcelona/" data-reveal style="--reveal-delay: 0.16s">
-      <span class="itinerary-flag">🇪🇸</span>
-      <h3>Barcelona</h3>
-      <p class="itinerary-days">3 days</p>
-      <p>Gaudí, the Gothic Quarter, and beach time that fits.</p>
-    </a>
-    <a class="itinerary-card" href="/blog/3-days-in-rome/" data-reveal>
-      <span class="itinerary-flag">🇮🇹</span>
-      <h3>Rome</h3>
-      <p class="itinerary-days">3 days</p>
-      <p>Colosseum, Vatican, Trastevere, and skip-the-line tips.</p>
-    </a>
-    <a class="itinerary-card" href="/blog/3-days-in-lisbon/" data-reveal style="--reveal-delay: 0.08s">
-      <span class="itinerary-flag">🇵🇹</span>
-      <h3>Lisbon</h3>
-      <p class="itinerary-days">3 days</p>
-      <p>Alfama, Belém, and the best pastéis de nata in town.</p>
-    </a>
-    <a class="itinerary-card" href="/blog/7-days-in-bali/" data-reveal style="--reveal-delay: 0.16s">
-      <span class="itinerary-flag">🇮🇩</span>
-      <h3>Bali</h3>
-      <p class="itinerary-days">7 days</p>
-      <p>Ubud, Uluwatu, rice terraces, and a realistic budget.</p>
-    </a>
-  </div>
-  <p class="itineraries-footer" data-reveal><a href="/blog/">Browse all guides on the blog →</a></p>
 </section>
 
 {{/* Comparison Table */}}

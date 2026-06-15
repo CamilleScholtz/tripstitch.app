@@ -22,6 +22,7 @@
 
 @layer components {
   .hero {
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -30,6 +31,27 @@
     margin: 0 auto;
     min-height: 92vh;
     padding: 7rem 1.5rem 4rem;
+  }
+
+  /* Ambient glow behind the copy, matching the orbs scattered down the page */
+  .hero-orb {
+    position: absolute;
+    z-index: -1;
+    top: auto;
+    bottom: -90%;
+    left: -90%;
+    width: min(2200px, 230vw);
+    height: min(2200px, 230vw);
+    border-radius: 50%;
+    pointer-events: none;
+    opacity: var(--gradient-opacity);
+    --orb-opacity: 22%;
+    --orb-100: color-mix(in srgb, var(--accent-color) var(--orb-opacity), transparent);
+    --orb-70: color-mix(in srgb, var(--accent-color) calc(var(--orb-opacity) * 0.7), transparent);
+    --orb-40: color-mix(in srgb, var(--accent-color) calc(var(--orb-opacity) * 0.4), transparent);
+    --orb-15: color-mix(in srgb, var(--accent-color) calc(var(--orb-opacity) * 0.15), transparent);
+    background: radial-gradient(circle, var(--orb-100) 0%, var(--orb-70) 10%, var(--orb-40) 22%, var(--orb-15) 36%, transparent 50%);
+    filter: hue-rotate(-8deg) saturate(1.05);
   }
 
   .hero-copy {

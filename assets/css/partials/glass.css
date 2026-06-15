@@ -1,0 +1,116 @@
+/* Liquid-glass treatment shared by the essentials chips and the cards/panels
+   across the page (feature, trip-style, comparison table) plus the hero pill.
+   Lives in its own cascade layer, declared after `components` in _layers.css,
+   so it overrides each component's own background/border regardless of the
+   alphabetical concat order. */
+@layer glass {
+  .essentials-pills li,
+  .feature-card,
+  .trip-style,
+  .comparison-table-wrapper {
+    position: relative;
+    /* New stacking context so the ::before sheen sits above the frosted fill
+       but below the card's own text (which it can't, without this, outrank). */
+    isolation: isolate;
+    background: var(--glass-bg);
+    -webkit-backdrop-filter: blur(20px) saturate(240%);
+    backdrop-filter: blur(20px) saturate(240%);
+    border: 1px solid var(--glass-border);
+    /* Diffuse drop = lift; directional inset rim = single-source specular edge,
+       bright along the top, faint along the bottom. */
+    box-shadow:
+      0 8px 32px -12px var(--glass-shadow),
+      inset 0 1px 0.5px var(--glass-rim),
+      inset 0 -1px 0.5px var(--glass-rim-bottom);
+    transition:
+      transform 0.35s cubic-bezier(0.22, 1, 0.36, 1),
+      box-shadow 0.35s,
+      background-color 0.35s;
+  }
+
+  /* Edge sheen — brightest at the top rim, clearing by mid-surface, implying a
+     lensed highlight without washing out the content beneath it. */
+  .essentials-pills li::before,
+  .feature-card::before,
+  .trip-style::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    border-radius: inherit;
+    pointer-events: none;
+    background: radial-gradient(120% 90% at 50% 0%, var(--glass-sheen) 0%, transparent 55%);
+  }
+
+  /* Chips float on a lighter shadow than the larger cards. */
+  .essentials-pills li {
+    box-shadow:
+      0 4px 14px -6px var(--glass-shadow),
+      inset 0 1px 0.5px var(--glass-rim),
+      inset 0 -1px 0.5px var(--glass-rim-bottom);
+  }
+
+  /* Hover lifts the card and brightens the fill + rim. */
+  .feature-card:hover,
+  .trip-style:hover {
+    background: var(--glass-bg-hover);
+    box-shadow:
+      0 22px 48px -16px var(--glass-shadow),
+      inset 0 1px 0.5px var(--glass-rim),
+      inset 0 -1px 0.5px var(--glass-rim-bottom);
+  }
+
+  /* True edge refraction, Chromium only: warp the backdrop through the SVG lens
+     filter. Gated by the `liquid-glass` class main.js adds only on Chromium
+     (Safari parses backdrop-filter: url() but renders nothing). Applied to the
+     static cards only — not the animated chips, where re-displacing the
+     backdrop every frame would be needlessly expensive. */
+  html.liquid-glass .feature-card,
+  html.liquid-glass .trip-style,
+  html.liquid-glass .comparison-table-wrapper {
+    -webkit-backdrop-filter: blur(16px) saturate(240%) url(#liquid-glass);
+    backdrop-filter: blur(16px) saturate(240%) url(#liquid-glass);
+  }
+
+  /* The hero card's "Recently created trips" pill sits on the light sky card,
+     so it keeps fixed light-glass values (not the theme tokens) while gaining
+     the same frosted base, specular rim, sheen, and Chromium refraction. */
+  .hero-card-label {
+    isolation: isolate;
+    background: rgba(255, 255, 255, 0.5);
+    -webkit-backdrop-filter: blur(16px) saturate(240%);
+    backdrop-filter: blur(16px) saturate(240%);
+    border: 1px solid rgba(255, 255, 255, 0.42);
+    box-shadow:
+      0 6px 20px -6px rgba(0, 0, 0, 0.18),
+      inset 0 1px 0.5px rgba(255, 255, 255, 0.4),
+      inset 0 -1px 0.5px rgba(255, 255, 255, 0.12);
+  }
+
+  .hero-card-label::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    border-radius: inherit;
+    pointer-events: none;
+    background: radial-gradient(120% 90% at 50% 0%, rgba(255, 255, 255, 0.25) 0%, transparent 55%);
+  }
+
+  html.liquid-glass .hero-card-label {
+    -webkit-backdrop-filter: blur(14px) saturate(240%) url(#liquid-glass-soft);
+    backdrop-filter: blur(14px) saturate(240%) url(#liquid-glass-soft);
+  }
+
+  /* Opaque fallback where backdrop-filter is unsupported, to protect contrast. */
+  @supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+    .essentials-pills li,
+    .feature-card,
+    .trip-style {
+      background: var(--surface-color);
+    }
+    .comparison-table-wrapper {
+      background: var(--surface-secondary);
+    }
+  }
+}

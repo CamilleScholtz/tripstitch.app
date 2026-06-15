@@ -11,4 +11,16 @@
   --icon-gradient-end: #EFD3B2;
   --hero-glow: rgba(228, 149, 106, 0.12);
   --gradient-opacity: 1;
+
+  /* Liquid-glass surface (chips + cards). Tuned to match the hero card's
+     "Recently created trips" pill: bright translucent rim rather than a dark
+     hairline, so the surface reads as glass over the colourful orbs behind it.
+     Card/page separation comes from the drop shadow, not the border. */
+  --glass-bg: rgba(255, 255, 255, 0.5);
+  --glass-bg-hover: rgba(255, 255, 255, 0.66);
+  --glass-border: rgba(255, 255, 255, 0.6);
+  --glass-rim: rgba(255, 255, 255, 0.95);
+  --glass-rim-bottom: rgba(255, 255, 255, 0.35);
+  --glass-sheen: rgba(255, 255, 255, 0.65);
+  --glass-shadow: rgba(0, 0, 0, 0.18);
 }
