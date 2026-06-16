@@ -2,8 +2,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
+  "@id": "{{ .Site.BaseURL }}#organization",
   "name": "Tripstitch",
+  "alternateName": "Tripstitch AI Trip Planner",
   "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description }}",
   "logo": {
     "@type": "ImageObject",
     "url": "{{ "img/tripstitch.webp" | absURL }}"
@@ -15,7 +18,9 @@
   },
   "sameAs": [
     "{{ .Site.Params.instagramURL }}",
-    "{{ .Site.Params.facebookURL }}"
+    "{{ .Site.Params.facebookURL }}",
+    "{{ .Site.Params.youtubeURL }}",
+    "{{ .Site.Params.appStoreURL }}"
   ]
 }
 </script>
@@ -30,26 +35,10 @@
   "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
   "dateModified": "{{ with .Lastmod }}{{ .Format "2006-01-02T15:04:05Z07:00" }}{{ else }}{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}{{ end }}",
   "author": {
-    "@type": "Organization",
-    "name": "Tripstitch",
-    "url": "{{ .Site.BaseURL }}",
-    "sameAs": [
-      "{{ .Site.Params.instagramURL }}",
-      "{{ .Site.Params.facebookURL }}"
-    ]
+    "@id": "{{ .Site.BaseURL }}#organization"
   },
   "publisher": {
-    "@type": "Organization",
-    "name": "Tripstitch",
-    "url": "{{ .Site.BaseURL }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ "img/tripstitch.webp" | absURL }}"
-    },
-    "sameAs": [
-      "{{ .Site.Params.instagramURL }}",
-      "{{ .Site.Params.facebookURL }}"
-    ]
+    "@id": "{{ .Site.BaseURL }}#organization"
   },
   "image": "{{ partial "head/og-image.html" . }}"
 }
@@ -75,13 +64,10 @@
   "screenshot": "{{ "img/mockup-1.webp" | absURL }}",
   "image": "{{ "img/tripstitch.webp" | absURL }}",
   "author": {
-    "@type": "Organization",
-    "name": "Tripstitch",
-    "url": "{{ .Site.BaseURL }}",
-    "sameAs": [
-      "{{ .Site.Params.instagramURL }}",
-      "{{ .Site.Params.facebookURL }}"
-    ]
+    "@id": "{{ .Site.BaseURL }}#organization"
+  },
+  "publisher": {
+    "@id": "{{ .Site.BaseURL }}#organization"
   }
 }
 </script>
