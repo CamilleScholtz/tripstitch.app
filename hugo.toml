@@ -9,6 +9,7 @@ disableKinds = ["taxonomy", "term"]
   description = "Tripstitch is an AI travel itinerary planner for iPhone. Tell Mia your destination and she builds personalized day-by-day plans with activities, restaurants, maps, and local tips. Free on the App Store."
   appStoreURL = "https://apps.apple.com/app/tripstitch-ai-trip-planner/id6757090571"
   instagramURL = "https://instagram.com/tripstitch.app/"
+  facebookURL = "https://www.facebook.com/profile.php?id=61590835562509"
   mapboxToken = "pk.eyJ1IjoiY2FtaWxsZXNjaG9sdHoyIiwiYSI6ImNtcGUyOGdtMjBod2oycXIwd2g0eXozZ3oifQ.f99S4XxYGBFtFkz7rJI18Q"
 
 [markup]

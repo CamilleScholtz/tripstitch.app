@@ -11,6 +11,11 @@
     padding-left: 0;
   }
 
+  /* "Travelers Choice" stat is dropped on mobile to keep the row tidy */
+  .hero-stats li:last-child {
+    display: none;
+  }
+
   .hero-stats strong {
     font-size: 1rem;
   }
