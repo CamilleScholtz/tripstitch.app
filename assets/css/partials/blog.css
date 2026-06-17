@@ -139,4 +139,37 @@
     border-radius: 8px;
     order: 1;
   }
+
+  .breadcrumbs {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 6rem 1.5rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.8125rem;
+    color: var(--text-secondary);
+  }
+
+  .breadcrumbs a {
+    color: var(--text-secondary);
+    text-decoration: none;
+  }
+
+  .breadcrumbs a:hover {
+    color: var(--text-color);
+  }
+
+  .breadcrumbs [aria-current="page"] {
+    color: var(--text-color);
+  }
+
+  .breadcrumbs-sep {
+    opacity: 0.5;
+  }
+
+  .breadcrumbs + .prose {
+    padding-top: 1.25rem;
+  }
 }

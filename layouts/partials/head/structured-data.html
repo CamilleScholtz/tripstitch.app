@@ -43,6 +43,68 @@
   "image": "{{ partial "head/og-image.html" . }}"
 }
 </script>
+{{/* Breadcrumb trail: Home › Blog › Post (or Home › Blog on the listing) */}}
+{{- $crumbs := slice -}}
+{{- range .Ancestors.Reverse -}}
+  {{- $crumbs = $crumbs | append (dict "name" (cond .IsHome "Home" .Title) "url" .Permalink) -}}
+{{- end -}}
+{{- $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+{{- range $i, $c := $crumbs }}
+    {
+      "@type": "ListItem",
+      "position": {{ add $i 1 }},
+      "name": "{{ $c.name }}",
+      "item": "{{ $c.url }}"
+    }{{ if ne (add $i 1) (len $crumbs) }},{{ end }}
+{{- end }}
+  ]
+}
+</script>
+{{/* Itinerary posts: emit a TouristTrip whose itinerary is built from the "Day N" headings */}}
+{{- if eq .Params.category "itinerary" }}
+{{- $days := slice -}}
+{{- range .Fragments.Identifiers -}}
+  {{- $h := index $.Fragments.HeadingsMap . -}}
+  {{- if strings.HasPrefix $h.Title "Day " -}}
+    {{- $days = $days | append $h -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $days }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "{{ .Title }}",
+  "description": "{{ .Params.description | default .Site.Params.description }}",
+  "url": "{{ .Permalink }}",
+  "image": "{{ partial "head/og-image.html" . }}",
+  "provider": {
+    "@id": "{{ .Site.BaseURL }}#organization"
+  },
+  "itinerary": {
+    "@type": "ItemList",
+    "numberOfItems": {{ len $days }},
+    "itemListElement": [
+{{- range $i, $d := $days }}
+      {
+        "@type": "ListItem",
+        "position": {{ add $i 1 }},
+        "name": "{{ $d.Title | htmlUnescape }}",
+        "url": "{{ $.Permalink }}#{{ $d.ID }}"
+      }{{ if ne (add $i 1) (len $days) }},{{ end }}
+{{- end }}
+    ]
+  }
+}
+</script>
+{{- end }}
+{{- end }}
 {{- else }}
 <script type="application/ld+json">
 {

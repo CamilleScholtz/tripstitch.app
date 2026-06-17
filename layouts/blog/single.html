@@ -1,5 +1,13 @@
 {{ define "main" }}
 
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <a href="{{ "/" | relURL }}">Home</a>
+  <span class="breadcrumbs-sep" aria-hidden="true">/</span>
+  <a href="{{ "/blog/" | relURL }}">Blog</a>
+  <span class="breadcrumbs-sep" aria-hidden="true">/</span>
+  <span aria-current="page">{{ .Title }}</span>
+</nav>
+
 <article class="prose blog-post">
   <div class="blog-post-meta">
     <span class="blog-badge blog-badge--{{ .Params.category }}">
